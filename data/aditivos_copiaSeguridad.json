@@ -1,0 +1,4502 @@
+[
+    {
+        "numero": "E100i",
+        "nombre": "Curcumina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E100i.html"
+    },
+    {
+        "numero": "E100ii",
+        "nombre": "Cúrcuma",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E100ii.html"
+    },
+    {
+        "numero": "E101",
+        "nombre": "Riboflavinas",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E101.html"
+    },
+    {
+        "numero": "E101i",
+        "nombre": "Riboflavina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E101i.html"
+    },
+    {
+        "numero": "E101ii",
+        "nombre": "Fosfato de Riboflavina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E101ii.html"
+    },
+    {
+        "numero": "E101iii",
+        "nombre": "Riboflavina de Bacillus Subtilis",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E101iii.html"
+    },
+    {
+        "numero": "E101iv",
+        "nombre": "Riboflavina de Ashbya Gossypii",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E101iv.html"
+    },
+    {
+        "numero": "E102",
+        "nombre": "Tartracina",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E102.html"
+    },
+    {
+        "numero": "E103",
+        "nombre": "Crisoína",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E103.html"
+    },
+    {
+        "numero": "E104",
+        "nombre": "Amarillo de Quinoleína",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E104.html"
+    },
+    {
+        "numero": "E105",
+        "nombre": "Amarillo Sólido",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E105.html"
+    },
+    {
+        "numero": "E107",
+        "nombre": "Amarillo 2G",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E107.html"
+    },
+    {
+        "numero": "E110",
+        "nombre": "Amarillo Ocaso FCF",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E110.html"
+    },
+    {
+        "numero": "E111",
+        "nombre": "Naranja GGN",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E111.html"
+    },
+    {
+        "numero": "E120",
+        "nombre": "Ácido Carmínico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E120.html"
+    },
+    {
+        "numero": "E120i",
+        "nombre": "Rojo Carmín",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E120i.html"
+    },
+    {
+        "numero": "E120ii",
+        "nombre": "Extracto de Cochinilla",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E120ii.html"
+    },
+    {
+        "numero": "E121",
+        "nombre": "Rojo Cítrico 2",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E121.html"
+    },
+    {
+        "numero": "E122",
+        "nombre": "Azorrubina",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E122.html"
+    },
+    {
+        "numero": "E123",
+        "nombre": "Amaranto",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E123.html"
+    },
+    {
+        "numero": "E124",
+        "nombre": "Ponceau 4R",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E124.html"
+    },
+    {
+        "numero": "E125",
+        "nombre": "Ponceau SX",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E125.html"
+    },
+    {
+        "numero": "E126",
+        "nombre": "Ponceau 6R",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E126.html"
+    },
+    {
+        "numero": "E127",
+        "nombre": "Eritrosina",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E127.html"
+    },
+    {
+        "numero": "E128",
+        "nombre": "Rojo 2G",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E128.html"
+    },
+    {
+        "numero": "E129",
+        "nombre": "Rojo Allura AC",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E129.html"
+    },
+    {
+        "numero": "E130",
+        "nombre": "Azul de Antraquinona",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E130.html"
+    },
+    {
+        "numero": "E131",
+        "nombre": "Azul Patente V",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E131.html"
+    },
+    {
+        "numero": "E132",
+        "nombre": "Indigotina",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E132.html"
+    },
+    {
+        "numero": "E133",
+        "nombre": "Azul Brillante FCF",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E133.html"
+    },
+    {
+        "numero": "E134",
+        "nombre": "Extracto de Espirulina",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E134.html"
+    },
+    {
+        "numero": "E140",
+        "nombre": "Clorofilas y Clorofilinas",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E140.html"
+    },
+    {
+        "numero": "E140i",
+        "nombre": "Clorofila",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E140i.html"
+    },
+    {
+        "numero": "E140ii",
+        "nombre": "Clorofilina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E140ii.html"
+    },
+    {
+        "numero": "E141",
+        "nombre": "Complejos Cúpricos de Clorofilas y Clorofilinas",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E141.html"
+    },
+    {
+        "numero": "E141i",
+        "nombre": "Complejo Cúprico de Clorofila",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E141i.html"
+    },
+    {
+        "numero": "E141ii",
+        "nombre": "Complejo Cúprico de Clorofilina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E141ii.html"
+    },
+    {
+        "numero": "E142",
+        "nombre": "Verde S",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E142.html"
+    },
+    {
+        "numero": "E143",
+        "nombre": "Verde Sólido FCF",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E143.html"
+    },
+    {
+        "numero": "E150",
+        "nombre": "Caramelos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E150.html"
+    },
+    {
+        "numero": "E150a",
+        "nombre": "Caramelo Cáustico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E150a.html"
+    },
+    {
+        "numero": "E150b",
+        "nombre": "Caramelo Caústico de Sulfito",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E150b.html"
+    },
+    {
+        "numero": "E150c",
+        "nombre": "Caramelo Amónico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E150c.html"
+    },
+    {
+        "numero": "E150d",
+        "nombre": "Caramelo Amónico de Sulfito",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E150d.html"
+    },
+    {
+        "numero": "E151",
+        "nombre": "Negro Brillante BN",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E151.html"
+    },
+    {
+        "numero": "E152",
+        "nombre": "Negro 7984",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E152.html"
+    },
+    {
+        "numero": "E153",
+        "nombre": "Carbón Vegetal",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E153.html"
+    },
+    {
+        "numero": "E154",
+        "nombre": "Marrón FK",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E154.html"
+    },
+    {
+        "numero": "E155",
+        "nombre": "Marrón HT",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E155.html"
+    },
+    {
+        "numero": "E160",
+        "nombre": "Carotenos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E160.html"
+    },
+    {
+        "numero": "E160a",
+        "nombre": "Betacarotenos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E160a.html"
+    },
+    {
+        "numero": "E160a(i)",
+        "nombre": "Betacaroteno Sintético",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E160a-i.html"
+    },
+    {
+        "numero": "E160a(ii)",
+        "nombre": "Betacaroteno Vegetal",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E160a-ii.html"
+    },
+    {
+        "numero": "E160a(iii)",
+        "nombre": "Betacaroteno de Blakeslea Trispora",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E160a-iii.html"
+    },
+    {
+        "numero": "E160a(iv)",
+        "nombre": "Betacaroteno de Algas",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E160a-iv.html"
+    },
+    {
+        "numero": "E160b",
+        "nombre": "Extractos de Annato",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E160b.html"
+    },
+    {
+        "numero": "E160b(i)",
+        "nombre": "Extracto de Annato con Disolventes",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E160b-i.html"
+    },
+    {
+        "numero": "E160b(ii)",
+        "nombre": "Extracto de Annato con Álcalis",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E160b-ii.html"
+    },
+    {
+        "numero": "E160b(iii)",
+        "nombre": "Extracto de Annato con Aceite",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E160b-iii.html"
+    },
+    {
+        "numero": "E160c",
+        "nombre": "Extractos de Pimentón",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E160c.html"
+    },
+    {
+        "numero": "E160c(i)",
+        "nombre": "Oleorresina de Pimentón",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E160c-i.html"
+    },
+    {
+        "numero": "E160c(ii)",
+        "nombre": "Extracto de Pimentón",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E160c-ii.html"
+    },
+    {
+        "numero": "E160d",
+        "nombre": "Licopenos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E160d.html"
+    },
+    {
+        "numero": "E160d(i)",
+        "nombre": "Licopeno Sintético",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E160d-i.html"
+    },
+    {
+        "numero": "E160d(ii)",
+        "nombre": "Licopeno de Tomate",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E160d-ii.html"
+    },
+    {
+        "numero": "E160d(iii)",
+        "nombre": "Licopeno de Blakeslea Trispora",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E160d-iii.html"
+    },
+    {
+        "numero": "E160e",
+        "nombre": "Beta-Apo-8'-Carotenal (C30)",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E160e.html"
+    },
+    {
+        "numero": "E160f",
+        "nombre": "Éster Etílico del Ácido Beta-Apo-8'-Carotenoico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E160f.html"
+    },
+    {
+        "numero": "E161",
+        "nombre": "Xantófilas",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E161.html"
+    },
+    {
+        "numero": "E161a",
+        "nombre": "Flavoxantina",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E161a.html"
+    },
+    {
+        "numero": "E161b",
+        "nombre": "Luteínas",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E161b.html"
+    },
+    {
+        "numero": "E161b(i)",
+        "nombre": "Luteína de Tagetes Erecta",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E161b-i.html"
+    },
+    {
+        "numero": "E161b(ii)",
+        "nombre": "Extracto de Tagetes",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E161b-ii.html"
+    },
+    {
+        "numero": "E161b(iii)",
+        "nombre": "Ésteres de Luteínas de Tagetes Erecta",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E161b-iii.html"
+    },
+    {
+        "numero": "E161c",
+        "nombre": "Criptoxantina",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E161c.html"
+    },
+    {
+        "numero": "E161d",
+        "nombre": "Rubixantina",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E161d.html"
+    },
+    {
+        "numero": "E161e",
+        "nombre": "Violaxantina",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E161e.html"
+    },
+    {
+        "numero": "E161f",
+        "nombre": "Rodoxantina",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E161f.html"
+    },
+    {
+        "numero": "E161g",
+        "nombre": "Cantaxantina",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E161g.html"
+    },
+    {
+        "numero": "E161h",
+        "nombre": "Zeaxantinas",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E161h.html"
+    },
+    {
+        "numero": "E161h(i)",
+        "nombre": "Zeaxantina Sintética",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E161h-i.html"
+    },
+    {
+        "numero": "E161h(ii)",
+        "nombre": "Zeaxantina Rica en Extracto de Tagetes Erecta",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E161h-ii.html"
+    },
+    {
+        "numero": "E161i",
+        "nombre": "Citranaxantina",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E161i.html"
+    },
+    {
+        "numero": "E161j",
+        "nombre": "Astaxantina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E161j.html"
+    },
+    {
+        "numero": "E162",
+        "nombre": "Rojo de Remolacha",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E162.html"
+    },
+    {
+        "numero": "E163",
+        "nombre": "Antocianinas",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E163.html"
+    },
+    {
+        "numero": "E163i",
+        "nombre": "Extracto de Rábano",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E163i.html"
+    },
+    {
+        "numero": "E163ii",
+        "nombre": "Extracto de Piel de Uva",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E163ii.html"
+    },
+    {
+        "numero": "E163iii",
+        "nombre": "Extracto de Grosella Negra",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E163iii.html"
+    },
+    {
+        "numero": "E163iv",
+        "nombre": "Colorante de Maíz morado",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E163iv.html"
+    },
+    {
+        "numero": "E163v",
+        "nombre": "Colorante de Col Lombarda",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E163v.html"
+    },
+    {
+        "numero": "E163vi",
+        "nombre": "Extracto de Zanahoria Negra",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E163vi.html"
+    },
+    {
+        "numero": "E163vii",
+        "nombre": "Colorante de Batata Morada",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E163vii.html"
+    },
+    {
+        "numero": "E163viii",
+        "nombre": "Colorante de Rábano Rojo",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E163viii.html"
+    },
+    {
+        "numero": "E163ix",
+        "nombre": "Colorante de Saúco",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E163ix.html"
+    },
+    {
+        "numero": "E163x",
+        "nombre": "Colorante de Hibisco",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E163x.html"
+    },
+    {
+        "numero": "E163xi",
+        "nombre": "Extracto de Campanilla Azul",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E163xi.html"
+    },
+    {
+        "numero": "E163a",
+        "nombre": "Cianidina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E163a.html"
+    },
+    {
+        "numero": "E163b",
+        "nombre": "Delfinidina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E163b.html"
+    },
+    {
+        "numero": "E163c",
+        "nombre": "Malvidina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E163c.html"
+    },
+    {
+        "numero": "E163d",
+        "nombre": "Pelargonidina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E163d.html"
+    },
+    {
+        "numero": "E163e",
+        "nombre": "Peonidina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E163e.html"
+    },
+    {
+        "numero": "E163f",
+        "nombre": "Petunidina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E163f.html"
+    },
+    {
+        "numero": "E164",
+        "nombre": "Amarillo de Gardenia",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E164.html"
+    },
+    {
+        "numero": "E165",
+        "nombre": "Azul de Gardenia",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E165.html"
+    },
+    {
+        "numero": "E166",
+        "nombre": "Madera de Sándalo",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E166.html"
+    },
+    {
+        "numero": "E170",
+        "nombre": "Carbonatos Cálcicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E170.html"
+    },
+    {
+        "numero": "E170i",
+        "nombre": "Carbonato Cálcico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E170i.html"
+    },
+    {
+        "numero": "E170ii",
+        "nombre": "Bicarbonato Cálcico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E170ii.html"
+    },
+    {
+        "numero": "E171",
+        "nombre": "Dióxido de Titanio",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E171.html"
+    },
+    {
+        "numero": "E172",
+        "nombre": "Óxidos e Hidróxidos Férricos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E172.html"
+    },
+    {
+        "numero": "E172i",
+        "nombre": "Óxido Férrico Negro",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E172i.html"
+    },
+    {
+        "numero": "E172ii",
+        "nombre": "Óxido Férrico Rojo",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E172ii.html"
+    },
+    {
+        "numero": "E172iii",
+        "nombre": "Óxido Férrico Amarillo",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E172iii.html"
+    },
+    {
+        "numero": "E173",
+        "nombre": "Aluminio Comestible",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E173.html"
+    },
+    {
+        "numero": "E174",
+        "nombre": "Plata Comestible",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E174.html"
+    },
+    {
+        "numero": "E175",
+        "nombre": "Oro Comestible",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E175.html"
+    },
+    {
+        "numero": "E176",
+        "nombre": "Pigmentos Nacarados de Aluminosilicato Potásico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E176.html"
+    },
+    {
+        "numero": "E176i",
+        "nombre": "Pigmentos Nacarados de Aluminosilicato Potásico Recubiertos de Dióxido de Titanio",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E176i.html"
+    },
+    {
+        "numero": "E176ii",
+        "nombre": "Pigmentos Nacarados de Aluminosilicato Potásico Recubiertos de Óxido de Hierro",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E176ii.html"
+    },
+    {
+        "numero": "E176iii",
+        "nombre": "Pigmentos Nacarados de Aluminosilicato Potásico Recubiertos de Dióxido de Titanio y Óxido de Hierro",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E176iii.html"
+    },
+    {
+        "numero": "E180",
+        "nombre": "Litolrubina BK",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E180.html"
+    },
+    {
+        "numero": "E181",
+        "nombre": "Ácido Tánico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E181.html"
+    },
+    {
+        "numero": "E182",
+        "nombre": "Orceína",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E182.html"
+    },
+    {
+        "numero": "E183",
+        "nombre": "Azul de Jagua",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E183.html"
+    },
+    {
+        "numero": "E200",
+        "nombre": "Ácido Sórbico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E200.html"
+    },
+    {
+        "numero": "E201",
+        "nombre": "Sorbato Sódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E201.html"
+    },
+    {
+        "numero": "E202",
+        "nombre": "Sorbato Potásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E202.html"
+    },
+    {
+        "numero": "E203",
+        "nombre": "Sorbato Cálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E203.html"
+    },
+    {
+        "numero": "E209",
+        "nombre": "Para-Hidroxibenzoato de Heptilo",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E209.html"
+    },
+    {
+        "numero": "E210",
+        "nombre": "Ácido Benzoico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E210.html"
+    },
+    {
+        "numero": "E211",
+        "nombre": "Benzoato Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E211.html"
+    },
+    {
+        "numero": "E212",
+        "nombre": "Benzoato Potásico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E212.html"
+    },
+    {
+        "numero": "E213",
+        "nombre": "Benzoato Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E213.html"
+    },
+    {
+        "numero": "E214",
+        "nombre": "Para-Hidroxibenzoato de Etilo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E214.html"
+    },
+    {
+        "numero": "E215",
+        "nombre": "Para-Hidroxibenzoato Sódico de Etilo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E215.html"
+    },
+    {
+        "numero": "E216",
+        "nombre": "Para-Hidroxibenzoato de Propilo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E216.html"
+    },
+    {
+        "numero": "E217",
+        "nombre": "Para-Hidroxibenzoato Sódico de Propilo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E217.html"
+    },
+    {
+        "numero": "E218",
+        "nombre": "Para-Hidroxibenzoato de Metilo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E218.html"
+    },
+    {
+        "numero": "E219",
+        "nombre": "Para-Hidroxibenzoato Sódico de Metilo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E219.html"
+    },
+    {
+        "numero": "E220",
+        "nombre": "Dióxido de Azufre",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E220.html"
+    },
+    {
+        "numero": "E221",
+        "nombre": "Sulfito Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E221.html"
+    },
+    {
+        "numero": "E222",
+        "nombre": "Bisulfito Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E222.html"
+    },
+    {
+        "numero": "E223",
+        "nombre": "Metabisulfito Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E223.html"
+    },
+    {
+        "numero": "E224",
+        "nombre": "Metabisulfito Potásico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E224.html"
+    },
+    {
+        "numero": "E225",
+        "nombre": "Sulfito Potásico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E225.html"
+    },
+    {
+        "numero": "E226",
+        "nombre": "Sulfito Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E226.html"
+    },
+    {
+        "numero": "E227",
+        "nombre": "Bisulfito Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E227.html"
+    },
+    {
+        "numero": "E228",
+        "nombre": "Bisulfito Potásico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E228.html"
+    },
+    {
+        "numero": "E230",
+        "nombre": "Bifenilo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E230.html"
+    },
+    {
+        "numero": "E231",
+        "nombre": "Ortofenilfenol",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E231.html"
+    },
+    {
+        "numero": "E232",
+        "nombre": "Ortofenilfenol Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E232.html"
+    },
+    {
+        "numero": "E233",
+        "nombre": "Tiabendazol",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E233.html"
+    },
+    {
+        "numero": "E234",
+        "nombre": "Nisina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E234.html"
+    },
+    {
+        "numero": "E235",
+        "nombre": "Natamicina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E235.html"
+    },
+    {
+        "numero": "E236",
+        "nombre": "Ácido Fórmico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E236.html"
+    },
+    {
+        "numero": "E237",
+        "nombre": "Formiato Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E237.html"
+    },
+    {
+        "numero": "E238",
+        "nombre": "Formiato Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E238.html"
+    },
+    {
+        "numero": "E239",
+        "nombre": "Hexametilentetramina",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E239.html"
+    },
+    {
+        "numero": "E240",
+        "nombre": "Formaldehído",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E240.html"
+    },
+    {
+        "numero": "E241",
+        "nombre": "Goma de Guayaco",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E241.html"
+    },
+    {
+        "numero": "E242",
+        "nombre": "Dimetil Dicarbonato",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E242.html"
+    },
+    {
+        "numero": "E243",
+        "nombre": "Etil-Lauroil Arginato",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E243.html"
+    },
+    {
+        "numero": "E249",
+        "nombre": "Nitrito Potásico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E249.html"
+    },
+    {
+        "numero": "E250",
+        "nombre": "Nitrito Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E250.html"
+    },
+    {
+        "numero": "E251",
+        "nombre": "Nitrato Sódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E251.html"
+    },
+    {
+        "numero": "E251i",
+        "nombre": "Nitrato Sódico Sólido",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E251i.html"
+    },
+    {
+        "numero": "E251ii",
+        "nombre": "Nitrato Sódico Líquido",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E251ii.html"
+    },
+    {
+        "numero": "E252",
+        "nombre": "Nitrato Potásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E252.html"
+    },
+    {
+        "numero": "E260",
+        "nombre": "Ácido Acético",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E260.html"
+    },
+    {
+        "numero": "E261",
+        "nombre": "Acetatos Potásicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E261.html"
+    },
+    {
+        "numero": "E261i",
+        "nombre": "Acetato Potásico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E261i.html"
+    },
+    {
+        "numero": "E261ii",
+        "nombre": "Diacetato Potásico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E261ii.html"
+    },
+    {
+        "numero": "E262",
+        "nombre": "Acetatos Sódicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E262.html"
+    },
+    {
+        "numero": "E262i",
+        "nombre": "Acetato Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E262i.html"
+    },
+    {
+        "numero": "E262ii",
+        "nombre": "Diacetato Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E262ii.html"
+    },
+    {
+        "numero": "E263",
+        "nombre": "Acetato Cálcico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E263.html"
+    },
+    {
+        "numero": "E264",
+        "nombre": "Acetato Amónico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E264.html"
+    },
+    {
+        "numero": "E265",
+        "nombre": "Ácido Dehidroacético",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E265.html"
+    },
+    {
+        "numero": "E266",
+        "nombre": "Dehidroacetato Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E266.html"
+    },
+    {
+        "numero": "E270",
+        "nombre": "Ácido Láctico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E270.html"
+    },
+    {
+        "numero": "E280",
+        "nombre": "Ácido Propiónico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E280.html"
+    },
+    {
+        "numero": "E281",
+        "nombre": "Propionato Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E281.html"
+    },
+    {
+        "numero": "E282",
+        "nombre": "Propionato Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E282.html"
+    },
+    {
+        "numero": "E283",
+        "nombre": "Propionato Potásico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E283.html"
+    },
+    {
+        "numero": "E284",
+        "nombre": "Ácido Bórico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E284.html"
+    },
+    {
+        "numero": "E285",
+        "nombre": "Tetraborato Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E285.html"
+    },
+    {
+        "numero": "E290",
+        "nombre": "Dióxido de Carbono (CO2)",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E290.html"
+    },
+    {
+        "numero": "E296",
+        "nombre": "Ácido Málico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E296.html"
+    },
+    {
+        "numero": "E297",
+        "nombre": "Ácido Fumárico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E297.html"
+    },
+    {
+        "numero": "E300",
+        "nombre": "Ácido Ascórbico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E300.html"
+    },
+    {
+        "numero": "E301",
+        "nombre": "Ascorbato Sódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E301.html"
+    },
+    {
+        "numero": "E302",
+        "nombre": "Ascorbato Cálcico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E302.html"
+    },
+    {
+        "numero": "E303",
+        "nombre": "Ascorbato Potásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E303.html"
+    },
+    {
+        "numero": "E304",
+        "nombre": "Ésteres de Ácidos Grasos del Ácido Ascórbico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E304.html"
+    },
+    {
+        "numero": "E304i",
+        "nombre": "Palmitato de Ascorbilo",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E304i.html"
+    },
+    {
+        "numero": "E304ii",
+        "nombre": "Estearato de Ascorbilo",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E304ii.html"
+    },
+    {
+        "numero": "E306",
+        "nombre": "Extractos Naturales Ricos en Tocoferoles",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E306.html"
+    },
+    {
+        "numero": "E307",
+        "nombre": "Alfa-Tocoferol",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E307.html"
+    },
+    {
+        "numero": "E307a",
+        "nombre": "D-Alfa-Tocoferol",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E307a.html"
+    },
+    {
+        "numero": "E307b",
+        "nombre": "L-Alfa-Tocoferol",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E307b.html"
+    },
+    {
+        "numero": "E307c",
+        "nombre": "DL-Alfa-Tocoferol",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E307c.html"
+    },
+    {
+        "numero": "E308",
+        "nombre": "Gamma-Tocoferol",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E308.html"
+    },
+    {
+        "numero": "E309",
+        "nombre": "Delta-Tocoferol",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E309.html"
+    },
+    {
+        "numero": "E310",
+        "nombre": "Galato de Propilo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E310.html"
+    },
+    {
+        "numero": "E311",
+        "nombre": "Galato de Octilo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E311.html"
+    },
+    {
+        "numero": "E312",
+        "nombre": "Galato de Dodecilo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E312.html"
+    },
+    {
+        "numero": "E313",
+        "nombre": "Galato de Etilo",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E313.html"
+    },
+    {
+        "numero": "E314",
+        "nombre": "Resina de Guayaco",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E314.html"
+    },
+    {
+        "numero": "E315",
+        "nombre": "Ácido Eritórbico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E315.html"
+    },
+    {
+        "numero": "E316",
+        "nombre": "Eritorbato Sódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E316.html"
+    },
+    {
+        "numero": "E317",
+        "nombre": "Eritorbato Potásico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E317.html"
+    },
+    {
+        "numero": "E318",
+        "nombre": "Eritorbato Cálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E318.html"
+    },
+    {
+        "numero": "E319",
+        "nombre": "Terbutilhidroquinona (TBHQ)",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E319.html"
+    },
+    {
+        "numero": "E320",
+        "nombre": "Butilhidroxianisol (BHA)",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E320.html"
+    },
+    {
+        "numero": "E321",
+        "nombre": "Butilhidroxitolueno (BHT)",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E321.html"
+    },
+    {
+        "numero": "E322",
+        "nombre": "Lecitinas",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E322.html"
+    },
+    {
+        "numero": "E322i",
+        "nombre": "Lecitina de Avena",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E322i.html"
+    },
+    {
+        "numero": "E322ii",
+        "nombre": "Lecitina Parcialmente Hidrolizada",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E322ii.html"
+    },
+    {
+        "numero": "E322iii",
+        "nombre": "Lecitina Hidroxilada",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E322iii.html"
+    },
+    {
+        "numero": "E323",
+        "nombre": "Anoxómero",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E323.html"
+    },
+    {
+        "numero": "E324",
+        "nombre": "Etoxiquina",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E324.html"
+    },
+    {
+        "numero": "E325",
+        "nombre": "Lactato Sódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E325.html"
+    },
+    {
+        "numero": "E326",
+        "nombre": "Lactato Potásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E326.html"
+    },
+    {
+        "numero": "E327",
+        "nombre": "Lactato Cálcico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E327.html"
+    },
+    {
+        "numero": "E328",
+        "nombre": "Lactato Amónico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E328.html"
+    },
+    {
+        "numero": "E329",
+        "nombre": "Lactato Magnésico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E329.html"
+    },
+    {
+        "numero": "E330",
+        "nombre": "Ácido Cítrico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E330.html"
+    },
+    {
+        "numero": "E331",
+        "nombre": "Citratos Sódicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E331.html"
+    },
+    {
+        "numero": "E331i",
+        "nombre": "Citrato Monosódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E331i.html"
+    },
+    {
+        "numero": "E331ii",
+        "nombre": "Citrato Disódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E331ii.html"
+    },
+    {
+        "numero": "E331iii",
+        "nombre": "Citrato Trisódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E331iii.html"
+    },
+    {
+        "numero": "E332",
+        "nombre": "Citratos Potásicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E332.html"
+    },
+    {
+        "numero": "E332i",
+        "nombre": "Citrato Monopotásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E332i.html"
+    },
+    {
+        "numero": "E332ii",
+        "nombre": "Citrato Dipotásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E332ii.html"
+    },
+    {
+        "numero": "E332iii",
+        "nombre": "Citrato Tripotásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E332iii.html"
+    },
+    {
+        "numero": "E333",
+        "nombre": "Citratos Cálcicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E333.html"
+    },
+    {
+        "numero": "E333i",
+        "nombre": "Citrato Monocálcico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E333i.html"
+    },
+    {
+        "numero": "E333ii",
+        "nombre": "Citrato Dicálcico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E333ii.html"
+    },
+    {
+        "numero": "E333iii",
+        "nombre": "Citrato Tricálcico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E333iii.html"
+    },
+    {
+        "numero": "E334",
+        "nombre": "Ácido Tartárico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E334.html"
+    },
+    {
+        "numero": "E335",
+        "nombre": "Tartratos Sódicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E335.html"
+    },
+    {
+        "numero": "E335i",
+        "nombre": "Tartrato Monosódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E335i.html"
+    },
+    {
+        "numero": "E335ii",
+        "nombre": "Tartrato Disódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E335ii.html"
+    },
+    {
+        "numero": "E336",
+        "nombre": "Tartratos Potásicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E336.html"
+    },
+    {
+        "numero": "E336i",
+        "nombre": "Tartrato Monopotásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E336i.html"
+    },
+    {
+        "numero": "E336ii",
+        "nombre": "Tartrato Dipotásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E336ii.html"
+    },
+    {
+        "numero": "E337",
+        "nombre": "Tartrato Sódico-Potásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E337.html"
+    },
+    {
+        "numero": "E338",
+        "nombre": "Ácido Fosfórico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E338.html"
+    },
+    {
+        "numero": "E339",
+        "nombre": "Fosfatos Sódicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E339.html"
+    },
+    {
+        "numero": "E339i",
+        "nombre": "Fosfato Monosódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E339i.html"
+    },
+    {
+        "numero": "E339ii",
+        "nombre": "Fosfato Disódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E339ii.html"
+    },
+    {
+        "numero": "E339iii",
+        "nombre": "Fosfato Trisódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E339iii.html"
+    },
+    {
+        "numero": "E340",
+        "nombre": "Fosfatos Potásicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E340.html"
+    },
+    {
+        "numero": "E340i",
+        "nombre": "Fosfato Monopotásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E340i.html"
+    },
+    {
+        "numero": "E340ii",
+        "nombre": "Fosfato Dipotásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E340ii.html"
+    },
+    {
+        "numero": "E340iii",
+        "nombre": "Fosfato Tripotásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E340iii.html"
+    },
+    {
+        "numero": "E341",
+        "nombre": "Fosfatos Cálcicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E341.html"
+    },
+    {
+        "numero": "E341i",
+        "nombre": "Fosfato Monocálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E341i.html"
+    },
+    {
+        "numero": "E341ii",
+        "nombre": "Fosfato Dicálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E341ii.html"
+    },
+    {
+        "numero": "E341iii",
+        "nombre": "Fosfato Tricálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E341iii.html"
+    },
+    {
+        "numero": "E342",
+        "nombre": "Fosfatos Amónicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E342.html"
+    },
+    {
+        "numero": "E342i",
+        "nombre": "Fosfato Monoamónico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E342i.html"
+    },
+    {
+        "numero": "E342ii",
+        "nombre": "Fosfato Diamónico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E342ii.html"
+    },
+    {
+        "numero": "E342iii",
+        "nombre": "Fosfato Triamónico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E342iii.html"
+    },
+    {
+        "numero": "E343",
+        "nombre": "Fosfatos Magnésicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E343.html"
+    },
+    {
+        "numero": "E343i",
+        "nombre": "Fosfato Monomagnésico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E343i.html"
+    },
+    {
+        "numero": "E343ii",
+        "nombre": "Fosfato Dimagnésico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E343ii.html"
+    },
+    {
+        "numero": "E343iii",
+        "nombre": "Fosfato Trimagnésico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E343iii.html"
+    },
+    {
+        "numero": "E344",
+        "nombre": "Citrato Lecitínico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E344.html"
+    },
+    {
+        "numero": "E345",
+        "nombre": "Citrato Magnésico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E345.html"
+    },
+    {
+        "numero": "E349",
+        "nombre": "Malatos Amónicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E349.html"
+    },
+    {
+        "numero": "E349i",
+        "nombre": "Malato de Amonio",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E349i.html"
+    },
+    {
+        "numero": "E349ii",
+        "nombre": "Malato Ácido de Amonio",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E349ii.html"
+    },
+    {
+        "numero": "E350",
+        "nombre": "Malatos Sódicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E350.html"
+    },
+    {
+        "numero": "E350i",
+        "nombre": "Malato de Sodio",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E350i.html"
+    },
+    {
+        "numero": "E350ii",
+        "nombre": "Malato Ácido de Sodio",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E350ii.html"
+    },
+    {
+        "numero": "E351",
+        "nombre": "Malatos Potásicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E351.html"
+    },
+    {
+        "numero": "E351i",
+        "nombre": "Malato de Potasio",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E351i.html"
+    },
+    {
+        "numero": "E351ii",
+        "nombre": "Malato Ácido de Potasio",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E351ii.html"
+    },
+    {
+        "numero": "E352",
+        "nombre": "Malatos Cálcicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E352.html"
+    },
+    {
+        "numero": "E352i",
+        "nombre": "Malato de Calcio",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E352i.html"
+    },
+    {
+        "numero": "E352ii",
+        "nombre": "Malato Ácido de Calcio",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E352ii.html"
+    },
+    {
+        "numero": "E353",
+        "nombre": "Ácido Metatartárico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E353.html"
+    },
+    {
+        "numero": "E354",
+        "nombre": "Tartratos Cálcicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E354.html"
+    },
+    {
+        "numero": "E354i",
+        "nombre": "Tartrato Monocálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E354i.html"
+    },
+    {
+        "numero": "E354ii",
+        "nombre": "Tartrato Dicálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E354ii.html"
+    },
+    {
+        "numero": "E355",
+        "nombre": "Ácido Adípico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E355.html"
+    },
+    {
+        "numero": "E356",
+        "nombre": "Adipato Sódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E356.html"
+    },
+    {
+        "numero": "E357",
+        "nombre": "Adipato Potásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E357.html"
+    },
+    {
+        "numero": "E358",
+        "nombre": "Adipato Cálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E358.html"
+    },
+    {
+        "numero": "E359",
+        "nombre": "Adipato Amónico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E359.html"
+    },
+    {
+        "numero": "E360",
+        "nombre": "Adipato Magnésico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E360.html"
+    },
+    {
+        "numero": "E363",
+        "nombre": "Ácido Succínico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E363.html"
+    },
+    {
+        "numero": "E364",
+        "nombre": "Succinatos Sódicos",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E364.html"
+    },
+    {
+        "numero": "E364i",
+        "nombre": "Succinato Monosódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E364i.html"
+    },
+    {
+        "numero": "E364ii",
+        "nombre": "Succinato Disódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E364ii.html"
+    },
+    {
+        "numero": "E365",
+        "nombre": "Fumarato Sódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E365.html"
+    },
+    {
+        "numero": "E366",
+        "nombre": "Fumarato Potásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E366.html"
+    },
+    {
+        "numero": "E367",
+        "nombre": "Fumarato Cálcico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E367.html"
+    },
+    {
+        "numero": "E368",
+        "nombre": "Fumarato Amónico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E368.html"
+    },
+    {
+        "numero": "E369",
+        "nombre": "Fumarato Magnésico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E369.html"
+    },
+    {
+        "numero": "E370",
+        "nombre": "Heptonolactona",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E370.html"
+    },
+    {
+        "numero": "E375",
+        "nombre": "Ácido Nicotínico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E375.html"
+    },
+    {
+        "numero": "E380",
+        "nombre": "Citrato Triamónico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E380.html"
+    },
+    {
+        "numero": "E381",
+        "nombre": "Citrato Amónico-Férrico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E381.html"
+    },
+    {
+        "numero": "E383",
+        "nombre": "Glicerofosfato Cálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E383.html"
+    },
+    {
+        "numero": "E384",
+        "nombre": "Citrato Isopropílico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E384.html"
+    },
+    {
+        "numero": "E385",
+        "nombre": "Etileno Diamina Tetra Acetato (EDTA)",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E385.html"
+    },
+    {
+        "numero": "E386",
+        "nombre": "Ácido Etileno Diamino Tetraacético (AEDT)",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E386.html"
+    },
+    {
+        "numero": "E387",
+        "nombre": "Oxiestearina",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E387.html"
+    },
+    {
+        "numero": "E388",
+        "nombre": "Ácido Tiodipropiónico (TDPA)",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E388.html"
+    },
+    {
+        "numero": "E389",
+        "nombre": "Tiodipropionato de Dilaurilo",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E389.html"
+    },
+    {
+        "numero": "E390",
+        "nombre": "Tiodipropionato de Distearilo",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E390.html"
+    },
+    {
+        "numero": "E391",
+        "nombre": "Ácido Fítico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E391.html"
+    },
+    {
+        "numero": "E392",
+        "nombre": "Extractos de Romero",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E392.html"
+    },
+    {
+        "numero": "E392i",
+        "nombre": "Extracto de Romero con Acetona",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E392i.html"
+    },
+    {
+        "numero": "E392ii",
+        "nombre": "Extracto de Romero con Dióxido de Carbono Supercrítico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E392ii.html"
+    },
+    {
+        "numero": "E392iii",
+        "nombre": "Extracto de Romero con Etanol",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E392iii.html"
+    },
+    {
+        "numero": "E392iv",
+        "nombre": "Extracto de Romero con Hexano y Etanol",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E392iv.html"
+    },
+    {
+        "numero": "E399",
+        "nombre": "Lactobionato Cálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E399.html"
+    },
+    {
+        "numero": "E400",
+        "nombre": "Ácido Algínico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E400.html"
+    },
+    {
+        "numero": "E401",
+        "nombre": "Alginato Sódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E401.html"
+    },
+    {
+        "numero": "E402",
+        "nombre": "Alginato Potásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E402.html"
+    },
+    {
+        "numero": "E403",
+        "nombre": "Alginato Amónico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E403.html"
+    },
+    {
+        "numero": "E404",
+        "nombre": "Alginato Cálcico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E404.html"
+    },
+    {
+        "numero": "E405",
+        "nombre": "Alginato Propilenglicólico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E405.html"
+    },
+    {
+        "numero": "E406",
+        "nombre": "Agar-Agar",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E406.html"
+    },
+    {
+        "numero": "E407",
+        "nombre": "Carragenanos",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E407.html"
+    },
+    {
+        "numero": "E407a",
+        "nombre": "Algas Euchema Transformadas",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E407a.html"
+    },
+    {
+        "numero": "E408",
+        "nombre": "Glicano de Levadura Panaria",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E408.html"
+    },
+    {
+        "numero": "E409",
+        "nombre": "Arabinogalactano",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E409.html"
+    },
+    {
+        "numero": "E410",
+        "nombre": "Goma Garrofín",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E410.html"
+    },
+    {
+        "numero": "E411",
+        "nombre": "Goma de Avena",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E411.html"
+    },
+    {
+        "numero": "E412",
+        "nombre": "Goma Guar",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E412.html"
+    },
+    {
+        "numero": "E413",
+        "nombre": "Goma Tragacanto",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E413.html"
+    },
+    {
+        "numero": "E414",
+        "nombre": "Goma Arábiga",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E414.html"
+    },
+    {
+        "numero": "E415",
+        "nombre": "Goma Xantana",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E415.html"
+    },
+    {
+        "numero": "E416",
+        "nombre": "Goma Karaya",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E416.html"
+    },
+    {
+        "numero": "E417",
+        "nombre": "Goma Tara",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E417.html"
+    },
+    {
+        "numero": "E418",
+        "nombre": "Goma Gellan",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E418.html"
+    },
+    {
+        "numero": "E419",
+        "nombre": "Goma Ghatti",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E419.html"
+    },
+    {
+        "numero": "E420",
+        "nombre": "Sorbitoles",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E420.html"
+    },
+    {
+        "numero": "E420i",
+        "nombre": "Sorbitol",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E420i.html"
+    },
+    {
+        "numero": "E420ii",
+        "nombre": "Jarabe de Sorbitol",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E420ii.html"
+    },
+    {
+        "numero": "E421",
+        "nombre": "Manitoles",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E421.html"
+    },
+    {
+        "numero": "E421i",
+        "nombre": "Manitol",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E421i.html"
+    },
+    {
+        "numero": "E421ii",
+        "nombre": "Manitol Fermentado",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E421ii.html"
+    },
+    {
+        "numero": "E422",
+        "nombre": "Glicerol",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E422.html"
+    },
+    {
+        "numero": "E423",
+        "nombre": "Ácido Octenil-Succínico (OSA)",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E423.html"
+    },
+    {
+        "numero": "E424",
+        "nombre": "Curdlan",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E424.html"
+    },
+    {
+        "numero": "E425",
+        "nombre": "Konjac",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E425.html"
+    },
+    {
+        "numero": "E425i",
+        "nombre": "Goma de Konjac",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E425i.html"
+    },
+    {
+        "numero": "E425ii",
+        "nombre": "Glucomanano de Konjac",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E425ii.html"
+    },
+    {
+        "numero": "E426",
+        "nombre": "Hemicelulosa de Soja",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E426.html"
+    },
+    {
+        "numero": "E427",
+        "nombre": "Goma Casia",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E427.html"
+    },
+    {
+        "numero": "E428",
+        "nombre": "Gelatina Neutra",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E428.html"
+    },
+    {
+        "numero": "E429",
+        "nombre": "Peptonas",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E429.html"
+    },
+    {
+        "numero": "E429i",
+        "nombre": "Peptona Pépsica",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E429.html"
+    },
+    {
+        "numero": "E429ii",
+        "nombre": "Peptona Pancreática",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E429.html"
+    },
+    {
+        "numero": "E430",
+        "nombre": "Estearato de Polioxietileno 8",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E430.html"
+    },
+    {
+        "numero": "E431",
+        "nombre": "Estearato de Polioxietileno 40",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E431.html"
+    },
+    {
+        "numero": "E432",
+        "nombre": "Monolaurato de Sorbitán Polioxietinelado (Polisorbato 20)",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E432.html"
+    },
+    {
+        "numero": "E433",
+        "nombre": "Monooleato de Sorbitán Polioxietinelado (Polisorbato 80)",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E433.html"
+    },
+    {
+        "numero": "E434",
+        "nombre": "Monopalmitato de Sorbitán Polioxietinelado (Polisorbato 40)",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E434.html"
+    },
+    {
+        "numero": "E435",
+        "nombre": "Monoestearato de Sorbitán Polioxietinelado (Polisorbato 60)",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E435.html"
+    },
+    {
+        "numero": "E436",
+        "nombre": "Triestearato de Sorbitán Polioxietinelado (Polisorbato 65)",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E436.html"
+    },
+    {
+        "numero": "E440",
+        "nombre": "Pectinas",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E440.html"
+    },
+    {
+        "numero": "E440i",
+        "nombre": "Pectina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E440i.html"
+    },
+    {
+        "numero": "E440ii",
+        "nombre": "Pectina Amidada",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E440ii.html"
+    },
+    {
+        "numero": "E441",
+        "nombre": "Aceite de Semilla de Colza Superglicerinado Hidrogenado",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E441.html"
+    },
+    {
+        "numero": "E442",
+        "nombre": "Fosfátidos Amónicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E442.html"
+    },
+    {
+        "numero": "E443",
+        "nombre": "Aceite Vegetal Bromado",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E443.html"
+    },
+    {
+        "numero": "E444",
+        "nombre": "Acetato Isobutírico de Sacarosa",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E444.html"
+    },
+    {
+        "numero": "E445",
+        "nombre": "Ésteres Glicéridos de Colofonia",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E445.html"
+    },
+    {
+        "numero": "E445i",
+        "nombre": "Ésteres Glicéridos de Colofonia de Goma",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E445i.html"
+    },
+    {
+        "numero": "E445ii",
+        "nombre": "Ésteres Glicéridos de Colofonia de Aceite de Resina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E445ii.html"
+    },
+    {
+        "numero": "E445iii",
+        "nombre": "Ésteres Glicéridos de Colofonia de Madera",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E445iii.html"
+    },
+    {
+        "numero": "E446",
+        "nombre": "Succistearina",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E446.html"
+    },
+    {
+        "numero": "E450",
+        "nombre": "Difosfatos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E450.html"
+    },
+    {
+        "numero": "E450i",
+        "nombre": "Difosfato Disódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E450i.html"
+    },
+    {
+        "numero": "E450ii",
+        "nombre": "Difosfato Trisódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E450ii.html"
+    },
+    {
+        "numero": "E450iii",
+        "nombre": "Difosfato Tetrasódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E450iii.html"
+    },
+    {
+        "numero": "E450iv",
+        "nombre": "Difosfato Dipotásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E450iv.html"
+    },
+    {
+        "numero": "E450v",
+        "nombre": "Difosfato Tetrapotásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E450v.html"
+    },
+    {
+        "numero": "E450vi",
+        "nombre": "Difosfato Dicálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E450vi.html"
+    },
+    {
+        "numero": "E450vii",
+        "nombre": "Difosfato Cálcico de Dihidrógeno",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E450vii.html"
+    },
+    {
+        "numero": "E450viii",
+        "nombre": "Difosfato Dimagnésico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E450viii.html"
+    },
+    {
+        "numero": "E450ix",
+        "nombre": "Difosfato Magnésico de Dihidrógeno",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E450ix.html"
+    },
+    {
+        "numero": "E451",
+        "nombre": "Trifosfatos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E451.html"
+    },
+    {
+        "numero": "E451i",
+        "nombre": "Trifosfato Pentasódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E451i.html"
+    },
+    {
+        "numero": "E451ii",
+        "nombre": "Trifosfato Pentapotásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E451ii.html"
+    },
+    {
+        "numero": "E451iii",
+        "nombre": "Trifosfato Sódico-Potásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E451iii.html"
+    },
+    {
+        "numero": "E452",
+        "nombre": "Polifosfatos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E452.html"
+    },
+    {
+        "numero": "E452i",
+        "nombre": "Polifosfato Sódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E452i.html"
+    },
+    {
+        "numero": "E452ii",
+        "nombre": "Polifosfato Potásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E452ii.html"
+    },
+    {
+        "numero": "E452iii",
+        "nombre": "Polifosfato Sódico-Cálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E452iii.html"
+    },
+    {
+        "numero": "E452iv",
+        "nombre": "Polifosfato Cálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E452iv.html"
+    },
+    {
+        "numero": "E452v",
+        "nombre": "Polifosfato Amónico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E452v.html"
+    },
+    {
+        "numero": "E452vi",
+        "nombre": "Hexametafosfato Sódico-Potásico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E452vi.html"
+    },
+    {
+        "numero": "E453",
+        "nombre": "Ortofosfato Ferroso",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E453.html"
+    },
+    {
+        "numero": "E454",
+        "nombre": "Pirofosfato Ferroso",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E454.html"
+    },
+    {
+        "numero": "E455",
+        "nombre": "Mannoproteínas de Levadura",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E455.html"
+    },
+    {
+        "numero": "E456",
+        "nombre": "Poliaspartato Potásico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E456.html"
+    },
+    {
+        "numero": "E457",
+        "nombre": "Alfa-Ciclodextrina",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E457.html"
+    },
+    {
+        "numero": "E458",
+        "nombre": "Gamma-Ciclodextrina",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E458.html"
+    },
+    {
+        "numero": "E459",
+        "nombre": "Beta-Ciclodextrina",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E459.html"
+    },
+    {
+        "numero": "E460",
+        "nombre": "Celulosas",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E460.html"
+    },
+    {
+        "numero": "E460i",
+        "nombre": "Celulosa Microcristalina",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E460i.html"
+    },
+    {
+        "numero": "E460ii",
+        "nombre": "Celulosa en Polvo",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E460ii.html"
+    },
+    {
+        "numero": "E461",
+        "nombre": "Metil-Celulosa",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E461.html"
+    },
+    {
+        "numero": "E462",
+        "nombre": "Etil-Celulosa",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E462.html"
+    },
+    {
+        "numero": "E463",
+        "nombre": "Hidroxipropil-Celulosa",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E463.html"
+    },
+    {
+        "numero": "E464",
+        "nombre": "Hidroxipropilmetil-Celulosa",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E464.html"
+    },
+    {
+        "numero": "E465",
+        "nombre": "Metiletil-Celulosa",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E465.html"
+    },
+    {
+        "numero": "E466",
+        "nombre": "Carboximetil-Celulosa Sódica",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E466.html"
+    },
+    {
+        "numero": "E467",
+        "nombre": "Etilhidroxietil-Celulosa",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E467.html"
+    },
+    {
+        "numero": "E468",
+        "nombre": "Carboximetil-Celulosa Sódica Entrelazada",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E468.html"
+    },
+    {
+        "numero": "E469",
+        "nombre": "Carboximetil-Celulosa Sódica Hidrolizada Enzimáticamente",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E469.html"
+    },
+    {
+        "numero": "E470",
+        "nombre": "Sales de Ácidos Grasos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E470.html"
+    },
+    {
+        "numero": "E470i",
+        "nombre": "Sales de Ácidos Mirísticos, Palmíticos y Esteáricos",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E470i.html"
+    },
+    {
+        "numero": "E470ii",
+        "nombre": "Sales de Ácidos Oleicos",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E470ii.html"
+    },
+    {
+        "numero": "E470iii",
+        "nombre": "Sales de Ácidos Esteáricos Magnésicos",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E470iii.html"
+    },
+    {
+        "numero": "E470a",
+        "nombre": "Estearato de Sodio, Potasio y Calcio",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E470a.html"
+    },
+    {
+        "numero": "E470b",
+        "nombre": "Estearato de Magnesio",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E470b.html"
+    },
+    {
+        "numero": "E471",
+        "nombre": "Monoglicéridos y Diglicéridos de Ácidos Grasos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E471.html"
+    },
+    {
+        "numero": "E472",
+        "nombre": "Ésteres de Monoglicéridos y Diglicéridos de Ácidos Grasos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E472.html"
+    },
+    {
+        "numero": "E472a",
+        "nombre": "Ésteres Acéticos de Monoglicéridos y Diglicéridos de Ácidos Grasos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E472a.html"
+    },
+    {
+        "numero": "E472b",
+        "nombre": "Ésteres Lácticos de Monoglicéridos y Diglicéridos de Ácidos Grasos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E472b.html"
+    },
+    {
+        "numero": "E472c",
+        "nombre": "Ésteres Cítricos de Monoglicéridos y Diglicéridos de Ácidos Grasos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E472c.html"
+    },
+    {
+        "numero": "E472d",
+        "nombre": "Ésteres Tartáricos de Monoglicéridos y Diglicéridos de Ácidos Grasos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E472d.html"
+    },
+    {
+        "numero": "E472e",
+        "nombre": "Ésteres Monoacetiltartárico y Diacetiltartárico de Monoglicéridos y Diglicéridos de Ácidos Grasos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E472e.html"
+    },
+    {
+        "numero": "E472f",
+        "nombre": "Ésteres Mixtos Acéticos y Tartáricos de Monoglicéridos y Diglicéridos de Ácidos Grasos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E472f.html"
+    },
+    {
+        "numero": "E472g",
+        "nombre": "Monoglicéridos Succinilados",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E472g.html"
+    },
+    {
+        "numero": "E473",
+        "nombre": "Sucroésteres de Ácidos Grasos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E473.html"
+    },
+    {
+        "numero": "E473a",
+        "nombre": "Oligoésteres de Sacarosa",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E473a.html"
+    },
+    {
+        "numero": "E474",
+        "nombre": "Sucroglicéridos de Ácidos Grasos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E474.html"
+    },
+    {
+        "numero": "E475",
+        "nombre": "Ésteres Poliglicéridos de Ácidos Grasos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E475.html"
+    },
+    {
+        "numero": "E476",
+        "nombre": "Polirricinoleato de Poliglicerol",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E476.html"
+    },
+    {
+        "numero": "E477",
+        "nombre": "Ésteres de Propilenglicol de Ácidos Grasos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E477.html"
+    },
+    {
+        "numero": "E478",
+        "nombre": "Ésteres de Glicerol y Propilenglicol de Ácidos Grasos Lactilados",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E478.html"
+    },
+    {
+        "numero": "E479",
+        "nombre": "Aceites de Soja Oxidados",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E479.html"
+    },
+    {
+        "numero": "E479a",
+        "nombre": "Aceite de Soja Oxidado Térmicamente",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E479a.html"
+    },
+    {
+        "numero": "E479b",
+        "nombre": "Aceite de Soja Oxidado Térmicamente en Interacción con Monoglicéridos y Diglicéridos de Ácidos Grasos (TOSOM)",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E479b.html"
+    },
+    {
+        "numero": "E480",
+        "nombre": "Dioctil Sulfosuccinato Sódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E480.html"
+    },
+    {
+        "numero": "E481",
+        "nombre": "Lactilatos Sódicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E481.html"
+    },
+    {
+        "numero": "E481i",
+        "nombre": "Estearoil Lactilato Sódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E481i.html"
+    },
+    {
+        "numero": "E481ii",
+        "nombre": "Lactilato Oleico Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E481ii.html"
+    },
+    {
+        "numero": "E482",
+        "nombre": "Lactilatos Cálcicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E482.html"
+    },
+    {
+        "numero": "E482i",
+        "nombre": "Estearoil Lactilato Cálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E482i.html"
+    },
+    {
+        "numero": "E482ii",
+        "nombre": "Lactilato Oleico Cálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E482ii.html"
+    },
+    {
+        "numero": "E483",
+        "nombre": "Tartrato Estearílico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E483.html"
+    },
+    {
+        "numero": "E484",
+        "nombre": "Citrato Estearílico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E484.html"
+    },
+    {
+        "numero": "E485",
+        "nombre": "Estearoil Fumarato Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E485.html"
+    },
+    {
+        "numero": "E486",
+        "nombre": "Estearoil Fumarato Cálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E486.html"
+    },
+    {
+        "numero": "E487",
+        "nombre": "Lauril-Sulfato Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E487.html"
+    },
+    {
+        "numero": "E488",
+        "nombre": "Monoglicéridos y Diglicéridos Etoxilados",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E488.html"
+    },
+    {
+        "numero": "E489",
+        "nombre": "Éster Metilglucósido del Aceite de Coco",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E489.html"
+    },
+    {
+        "numero": "E491",
+        "nombre": "Monoestearato de Sorbitano",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E491.html"
+    },
+    {
+        "numero": "E492",
+        "nombre": "Triestearato de Sorbitano",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E492.html"
+    },
+    {
+        "numero": "E493",
+        "nombre": "Monolaurato de Sorbitano",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E493.html"
+    },
+    {
+        "numero": "E494",
+        "nombre": "Monooleato de Sorbitano",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E494.html"
+    },
+    {
+        "numero": "E495",
+        "nombre": "Monopalmitato de Sorbitano",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E495.html"
+    },
+    {
+        "numero": "E496",
+        "nombre": "Trioleato de Sorbitano",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E496.html"
+    },
+    {
+        "numero": "E499",
+        "nombre": "Fitoesteroles Ricos en Estigmasterol",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E499.html"
+    },
+    {
+        "numero": "E500",
+        "nombre": "Carbonatos Sódicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E500.html"
+    },
+    {
+        "numero": "E500i",
+        "nombre": "Carbonato Sódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E500i.html"
+    },
+    {
+        "numero": "E500ii",
+        "nombre": "Bicarbonato Sódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E500ii.html"
+    },
+    {
+        "numero": "E500iii",
+        "nombre": "Sesquicarbonato Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E500iii.html"
+    },
+    {
+        "numero": "E501",
+        "nombre": "Carbonatos Potásicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E501.html"
+    },
+    {
+        "numero": "E501i",
+        "nombre": "Carbonato Potásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E501i.html"
+    },
+    {
+        "numero": "E501ii",
+        "nombre": "Bicarbonato Potásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E501ii.html"
+    },
+    {
+        "numero": "E503",
+        "nombre": "Carbonatos Amónicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E503.html"
+    },
+    {
+        "numero": "E503i",
+        "nombre": "Carbonato Amónico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E503i.html"
+    },
+    {
+        "numero": "E503ii",
+        "nombre": "Bicarbonato Amónico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E503ii.html"
+    },
+    {
+        "numero": "E504",
+        "nombre": "Carbonatos Magnésicos",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E504.html"
+    },
+    {
+        "numero": "E504i",
+        "nombre": "Carbonato Magnésico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E504i.html"
+    },
+    {
+        "numero": "E504ii",
+        "nombre": "Bicarbonato Magnésico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E504ii.html"
+    },
+    {
+        "numero": "E505",
+        "nombre": "Carbonato Ferroso",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E505.html"
+    },
+    {
+        "numero": "E507",
+        "nombre": "Ácido Clorhídrico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E507.html"
+    },
+    {
+        "numero": "E508",
+        "nombre": "Cloruro Potásico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E508.html"
+    },
+    {
+        "numero": "E509",
+        "nombre": "Cloruro Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E509.html"
+    },
+    {
+        "numero": "E510",
+        "nombre": "Cloruro Amónico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E510.html"
+    },
+    {
+        "numero": "E511",
+        "nombre": "Cloruro Magnésico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E511.html"
+    },
+    {
+        "numero": "E512",
+        "nombre": "Cloruro Estañoso",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E512.html"
+    },
+    {
+        "numero": "E513",
+        "nombre": "Ácido Sulfúrico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E513.html"
+    },
+    {
+        "numero": "E514",
+        "nombre": "Sulfatos Sódicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E514.html"
+    },
+    {
+        "numero": "E514i",
+        "nombre": "Sulfato Sódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E514i.html"
+    },
+    {
+        "numero": "E514ii",
+        "nombre": "Bisulfato Sódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E514ii.html"
+    },
+    {
+        "numero": "E515",
+        "nombre": "Sulfatos Potásicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E515.html"
+    },
+    {
+        "numero": "E515i",
+        "nombre": "Sulfato Potásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E515i.html"
+    },
+    {
+        "numero": "E515ii",
+        "nombre": "Bisulfato Potásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E515ii.html"
+    },
+    {
+        "numero": "E516",
+        "nombre": "Sulfatos Cálcicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E516.html"
+    },
+    {
+        "numero": "E516i",
+        "nombre": "Sulfato Cálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E516i.html"
+    },
+    {
+        "numero": "E516ii",
+        "nombre": "Bisulfato Cálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E516ii.html"
+    },
+    {
+        "numero": "E517",
+        "nombre": "Sulfatos Amónicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E517.html"
+    },
+    {
+        "numero": "E517i",
+        "nombre": "Sulfato Amónico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E517i.html"
+    },
+    {
+        "numero": "E517ii",
+        "nombre": "Bisulfato Amónico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E517ii.html"
+    },
+    {
+        "numero": "E518",
+        "nombre": "Sulfatos Magnésicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E518.html"
+    },
+    {
+        "numero": "E518i",
+        "nombre": "Sulfato Magnésico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E518i.html"
+    },
+    {
+        "numero": "E518ii",
+        "nombre": "Bisulfato Magnésico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E518ii.html"
+    },
+    {
+        "numero": "E519",
+        "nombre": "Sulfatos Cúpricos",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E519.html"
+    },
+    {
+        "numero": "E519i",
+        "nombre": "Sulfato Cúprico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E519i.html"
+    },
+    {
+        "numero": "E519ii",
+        "nombre": "Bisulfato Cúprico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E519ii.html"
+    },
+    {
+        "numero": "E520",
+        "nombre": "Sulfato Alumínico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E520.html"
+    },
+    {
+        "numero": "E521",
+        "nombre": "Sulfato Alumínico-Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E521.html"
+    },
+    {
+        "numero": "E522",
+        "nombre": "Sulfato Alumínico-Potásico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E522.html"
+    },
+    {
+        "numero": "E523",
+        "nombre": "Sulfato Alumínico-Amónico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E523.html"
+    },
+    {
+        "numero": "E524",
+        "nombre": "Hidróxido Sódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E524.html"
+    },
+    {
+        "numero": "E525",
+        "nombre": "Hidróxido Potásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E525.html"
+    },
+    {
+        "numero": "E526",
+        "nombre": "Hidróxido Cálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E526.html"
+    },
+    {
+        "numero": "E527",
+        "nombre": "Hidróxido Amónico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E527.html"
+    },
+    {
+        "numero": "E528",
+        "nombre": "Hidróxido Magnésico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E528.html"
+    },
+    {
+        "numero": "E529",
+        "nombre": "Óxido Cálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E529.html"
+    },
+    {
+        "numero": "E530",
+        "nombre": "Óxido Magnésico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E530.html"
+    },
+    {
+        "numero": "E534",
+        "nombre": "Tartrato Ferroso",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E534.html"
+    },
+    {
+        "numero": "E535",
+        "nombre": "Ferrocianuro Sódico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E535.html"
+    },
+    {
+        "numero": "E536",
+        "nombre": "Ferrocianuro Potásico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E536.html"
+    },
+    {
+        "numero": "E537",
+        "nombre": "Hexacianomanganato Férrico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E537.html"
+    },
+    {
+        "numero": "E538",
+        "nombre": "Ferrocianuro Cálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E538.html"
+    },
+    {
+        "numero": "E539",
+        "nombre": "Tiosulfato Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E539.html"
+    },
+    {
+        "numero": "E540",
+        "nombre": "Fosfato Ácido Cálcico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E540.html"
+    },
+    {
+        "numero": "E541",
+        "nombre": "Fosfatos Alumínicos-Sódicos",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E541.html"
+    },
+    {
+        "numero": "E541i",
+        "nombre": "Fosfato Ácido Alumínico-Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E541i.html"
+    },
+    {
+        "numero": "E541ii",
+        "nombre": "Fosfato Básico Alumínico-Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E541ii.html"
+    },
+    {
+        "numero": "E542",
+        "nombre": "Fosfato Tribásico Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E542.html"
+    },
+    {
+        "numero": "E543",
+        "nombre": "Polifosfatos Sódicos-Cálcicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E543.html"
+    },
+    {
+        "numero": "E544",
+        "nombre": "Polifosfatos Cálcicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E544.html"
+    },
+    {
+        "numero": "E545",
+        "nombre": "Polifosfatos Amónicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E545.html"
+    },
+    {
+        "numero": "E546",
+        "nombre": "Polifosfatos Magnésicos",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E546.html"
+    },
+    {
+        "numero": "E550",
+        "nombre": "Silicatos Sódicos",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E550.html"
+    },
+    {
+        "numero": "E550i",
+        "nombre": "Silicato Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E550i.html"
+    },
+    {
+        "numero": "E550ii",
+        "nombre": "Metasilicato Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E550ii.html"
+    },
+    {
+        "numero": "E551",
+        "nombre": "Dióxido de Silicio",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E551.html"
+    },
+    {
+        "numero": "E552",
+        "nombre": "Silicato Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E552.html"
+    },
+    {
+        "numero": "E553",
+        "nombre": "Silicatos Magnésicos",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E553.html"
+    },
+    {
+        "numero": "E553a",
+        "nombre": "Silicato Magnésico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E553a.html"
+    },
+    {
+        "numero": "E553a(i)",
+        "nombre": "Silicato Magnésico Sintético",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E553a-i.html"
+    },
+    {
+        "numero": "E553a(ii)",
+        "nombre": "Trisilicato Magnésico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E553a-ii.html"
+    },
+    {
+        "numero": "E553b",
+        "nombre": "Talco Magnésico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E553b.html"
+    },
+    {
+        "numero": "E554",
+        "nombre": "Silicato Sódico-Alumínico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E554.html"
+    },
+    {
+        "numero": "E555",
+        "nombre": "Silicato Potásico-Alumínico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E555.html"
+    },
+    {
+        "numero": "E556",
+        "nombre": "Silicato Cálcico-Alumínico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E556.html"
+    },
+    {
+        "numero": "E557",
+        "nombre": "Silicato Zíncico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E557.html"
+    },
+    {
+        "numero": "E558",
+        "nombre": "Bentonita",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E558.html"
+    },
+    {
+        "numero": "E559",
+        "nombre": "Silicato Alumínico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E559.html"
+    },
+    {
+        "numero": "E560",
+        "nombre": "Silicato Potásico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E560.html"
+    },
+    {
+        "numero": "E570",
+        "nombre": "Ácido Esteárico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E570.html"
+    },
+    {
+        "numero": "E574",
+        "nombre": "Ácido Glucónico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E574.html"
+    },
+    {
+        "numero": "E575",
+        "nombre": "Glucono-Delta-Lactona",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E575.html"
+    },
+    {
+        "numero": "E576",
+        "nombre": "Gluconato Sódico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E576.html"
+    },
+    {
+        "numero": "E577",
+        "nombre": "Gluconato Potásico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E577.html"
+    },
+    {
+        "numero": "E578",
+        "nombre": "Gluconato Cálcico",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E578.html"
+    },
+    {
+        "numero": "E579",
+        "nombre": "Gluconato Ferroso",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E579.html"
+    },
+    {
+        "numero": "E585",
+        "nombre": "Lactato Ferroso",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E585.html"
+    },
+    {
+        "numero": "E586",
+        "nombre": "Hexilresorcinol",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E586.html"
+    },
+    {
+        "numero": "E620",
+        "nombre": "Ácido Glutámico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E620.html"
+    },
+    {
+        "numero": "E621",
+        "nombre": "Glutamato Monosódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E621.html"
+    },
+    {
+        "numero": "E622",
+        "nombre": "Glutamato Monopotásico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E622.html"
+    },
+    {
+        "numero": "E623",
+        "nombre": "Glutamato Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E623.html"
+    },
+    {
+        "numero": "E624",
+        "nombre": "Glutamato Monoamónico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E624.html"
+    },
+    {
+        "numero": "E625",
+        "nombre": "Glutamato Magnésico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E625.html"
+    },
+    {
+        "numero": "E626",
+        "nombre": "Ácido Guanílico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E626.html"
+    },
+    {
+        "numero": "E627",
+        "nombre": "Guanilato Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E627.html"
+    },
+    {
+        "numero": "E628",
+        "nombre": "Guanilato Potásico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E628.html"
+    },
+    {
+        "numero": "E629",
+        "nombre": "Guanilato Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E629.html"
+    },
+    {
+        "numero": "E630",
+        "nombre": "Ácido Inosínico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E630.html"
+    },
+    {
+        "numero": "E631",
+        "nombre": "Inosinato Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E631.html"
+    },
+    {
+        "numero": "E632",
+        "nombre": "Inosinato Potásico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E632.html"
+    },
+    {
+        "numero": "E633",
+        "nombre": "Inosinato Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E633.html"
+    },
+    {
+        "numero": "E634",
+        "nombre": "Ribonucleótido Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E634.html"
+    },
+    {
+        "numero": "E635",
+        "nombre": "Ribonucleótido Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E635.html"
+    },
+    {
+        "numero": "E636",
+        "nombre": "Maltol",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E636.html"
+    },
+    {
+        "numero": "E637",
+        "nombre": "Etilmaltol",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E637.html"
+    },
+    {
+        "numero": "E638",
+        "nombre": "Aspartato Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E638.html"
+    },
+    {
+        "numero": "E639",
+        "nombre": "Alanina",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E639.html"
+    },
+    {
+        "numero": "E640",
+        "nombre": "Glicina y sus Sales Sódicas",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E640.html"
+    },
+    {
+        "numero": "E640i",
+        "nombre": "Glicina",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E640i.html"
+    },
+    {
+        "numero": "E640ii",
+        "nombre": "Glicinato Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E640ii.html"
+    },
+    {
+        "numero": "E641",
+        "nombre": "Leucina",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E641.html"
+    },
+    {
+        "numero": "E642",
+        "nombre": "Cloruro Lisínico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E642.html"
+    },
+    {
+        "numero": "E650",
+        "nombre": "Acetato Zíncico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E650.html"
+    },
+    {
+        "numero": "E900",
+        "nombre": "Dimetilsiloxano, DMS",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E900.html"
+    },
+    {
+        "numero": "E900a",
+        "nombre": "Polidimetilsiloxano, PDMS",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E900a.html"
+    },
+    {
+        "numero": "E900b",
+        "nombre": "Polimetilfenilsiloxano, PMFS",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E900b.html"
+    },
+    {
+        "numero": "E901",
+        "nombre": "Ceras de Abejas",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E901.html"
+    },
+    {
+        "numero": "E901i",
+        "nombre": "Cera de Abejas Blanca",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E901i.html"
+    },
+    {
+        "numero": "E901ii",
+        "nombre": "Cera de Abejas Amarilla",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E901ii.html"
+    },
+    {
+        "numero": "E902",
+        "nombre": "Cera Candelilla",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E902.html"
+    },
+    {
+        "numero": "E903",
+        "nombre": "Cera Carnaúba",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E903.html"
+    },
+    {
+        "numero": "E904",
+        "nombre": "Goma Laca",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E904.html"
+    },
+    {
+        "numero": "E904i",
+        "nombre": "Goma Laca Blanca",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E904.html"
+    },
+    {
+        "numero": "E904ii",
+        "nombre": "Goma Laca Naranja",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E904.html"
+    },
+    {
+        "numero": "E905",
+        "nombre": "Cera Microcristalina",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E905.html"
+    },
+    {
+        "numero": "E905a",
+        "nombre": "Aceite Mineral de Calidad Alimentaria",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E905a.html"
+    },
+    {
+        "numero": "E905b",
+        "nombre": "Vaselina de Calidad Alimentaria",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E905b.html"
+    },
+    {
+        "numero": "E905c",
+        "nombre": "Cera de Parafina",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E905c.html"
+    },
+    {
+        "numero": "E905d",
+        "nombre": "Parafina Líquida de Viscosidad Alta",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E905d.html"
+    },
+    {
+        "numero": "E905e",
+        "nombre": "Parafina Líquida de Viscosidad Media y Baja (Clase 1)",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E905e.html"
+    },
+    {
+        "numero": "E905f",
+        "nombre": "Parafina Líquida de Viscosidad Media y Baja (Clase 2)",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E905f.html"
+    },
+    {
+        "numero": "E905g",
+        "nombre": "Parafina Líquida de Viscosidad Media y Baja (Clase 3)",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E905g.html"
+    },
+    {
+        "numero": "E906",
+        "nombre": "Goma de Benzoína",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E906.html"
+    },
+    {
+        "numero": "E907",
+        "nombre": "Poli-1-Deceno Hidrogenado",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E907.html"
+    },
+    {
+        "numero": "E908",
+        "nombre": "Cera de Salvado de Arroz",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E908.html"
+    },
+    {
+        "numero": "E909",
+        "nombre": "Cera de Esperma de Ballena",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E909.html"
+    },
+    {
+        "numero": "E910",
+        "nombre": "Ésteres de Cera",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E910.html"
+    },
+    {
+        "numero": "E911",
+        "nombre": "Ésteres Metílicos de Ácidos Grasos",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E911.html"
+    },
+    {
+        "numero": "E912",
+        "nombre": "Ésteres de Ácido Montánico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E912.html"
+    },
+    {
+        "numero": "E913",
+        "nombre": "Cera de Lana (Lanolina)",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E913.html"
+    },
+    {
+        "numero": "E914",
+        "nombre": "Cera de Polietileno Oxidada",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E914.html"
+    },
+    {
+        "numero": "E915",
+        "nombre": "Ésteres Glicerílicos, Metílicos o Pentaeritríticos de Colofonia Parcialmente Hidrogenada o Polimerizada",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E915.html"
+    },
+    {
+        "numero": "E916",
+        "nombre": "Yodato Cálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E916.html"
+    },
+    {
+        "numero": "E917",
+        "nombre": "Yodato Potásico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E917.html"
+    },
+    {
+        "numero": "E918",
+        "nombre": "Óxidos de Nitrógeno",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E918.html"
+    },
+    {
+        "numero": "E919",
+        "nombre": "Cloruro Nitrosílico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E919.html"
+    },
+    {
+        "numero": "E920",
+        "nombre": "L-Cisteína y Clorhidratos de Cisteína",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E920.html"
+    },
+    {
+        "numero": "E921",
+        "nombre": "L-Cistina y Clorhidratos de Cistina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E921.html"
+    },
+    {
+        "numero": "E922",
+        "nombre": "Persulfato Potásico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E922.html"
+    },
+    {
+        "numero": "E923",
+        "nombre": "Persulfato Amónico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E923.html"
+    },
+    {
+        "numero": "E924",
+        "nombre": "Bromatos",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E924.html"
+    },
+    {
+        "numero": "E924a",
+        "nombre": "Bromato Potásico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E924a.html"
+    },
+    {
+        "numero": "E924b",
+        "nombre": "Bromato Cálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E924b.html"
+    },
+    {
+        "numero": "E925",
+        "nombre": "Cloro",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E925.html"
+    },
+    {
+        "numero": "E926",
+        "nombre": "Dióxido de Cloro",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E926.html"
+    },
+    {
+        "numero": "E927",
+        "nombre": "Derivados del Ácido Carbámico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E927.html"
+    },
+    {
+        "numero": "E927a",
+        "nombre": "Azodicarbonamida",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E927a.html"
+    },
+    {
+        "numero": "E927b",
+        "nombre": "Carbamida (Urea)",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E927b.html"
+    },
+    {
+        "numero": "E928",
+        "nombre": "Peróxido Benzoílico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E928.html"
+    },
+    {
+        "numero": "E929",
+        "nombre": "Peróxido Acetónico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E929.html"
+    },
+    {
+        "numero": "E930",
+        "nombre": "Peróxido Cálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E930.html"
+    },
+    {
+        "numero": "E938",
+        "nombre": "Argón",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E938.html"
+    },
+    {
+        "numero": "E939",
+        "nombre": "Helio",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E939.html"
+    },
+    {
+        "numero": "E940",
+        "nombre": "Diclorodifluorometano",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E940.html"
+    },
+    {
+        "numero": "E941",
+        "nombre": "Nitrógeno",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E941.html"
+    },
+    {
+        "numero": "E942",
+        "nombre": "Óxido Nitroso",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E942.html"
+    },
+    {
+        "numero": "E943",
+        "nombre": "Butanos",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E943.html"
+    },
+    {
+        "numero": "E943a",
+        "nombre": "Butano",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E943a.html"
+    },
+    {
+        "numero": "E943b",
+        "nombre": "Isobutano",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E943b.html"
+    },
+    {
+        "numero": "E944",
+        "nombre": "Propano",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E944.html"
+    },
+    {
+        "numero": "E945",
+        "nombre": "Cloropentafluoroetano",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E945.html"
+    },
+    {
+        "numero": "E946",
+        "nombre": "Octafluorociclobutano",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E946.html"
+    },
+    {
+        "numero": "E948",
+        "nombre": "Oxígeno",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E948.html"
+    },
+    {
+        "numero": "E949",
+        "nombre": "Hidrógeno",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E949.html"
+    },
+    {
+        "numero": "E950",
+        "nombre": "Acesulfamo K",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E950.html"
+    },
+    {
+        "numero": "E951",
+        "nombre": "Aspartamo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E951.html"
+    },
+    {
+        "numero": "E952",
+        "nombre": "Ácido Ciclámico y sus Sales Sódicas y Cálcicas",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E952.html"
+    },
+    {
+        "numero": "E952i",
+        "nombre": "Ácido Ciclámico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E952i.html"
+    },
+    {
+        "numero": "E952ii",
+        "nombre": "Ciclamato Sódico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E952ii.html"
+    },
+    {
+        "numero": "E952iii",
+        "nombre": "Ciclamato Cálcico",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E952iii.html"
+    },
+    {
+        "numero": "E953",
+        "nombre": "Isomaltosa",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E953.html"
+    },
+    {
+        "numero": "E954",
+        "nombre": "Sacarina y sus Sales Sódicas, Cálcicas y Potásicas",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E954.html"
+    },
+    {
+        "numero": "E954i",
+        "nombre": "Sacarina",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E954i.html"
+    },
+    {
+        "numero": "E954ii",
+        "nombre": "Sacarina Sódica",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E954ii.html"
+    },
+    {
+        "numero": "E954iii",
+        "nombre": "Sacarina Cálcica",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E954iii.html"
+    },
+    {
+        "numero": "E954iv",
+        "nombre": "Sacarina Potásica",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E954iv.html"
+    },
+    {
+        "numero": "E955",
+        "nombre": "Sucralosa",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E955.html"
+    },
+    {
+        "numero": "E956",
+        "nombre": "Alitame",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E956.html"
+    },
+    {
+        "numero": "E957",
+        "nombre": "Taumatina",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E957.html"
+    },
+    {
+        "numero": "E958",
+        "nombre": "Glicirricina",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E958.html"
+    },
+    {
+        "numero": "E959",
+        "nombre": "Neohesperidina Dihidrocalcona (NHDC)",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E959.html"
+    },
+    {
+        "numero": "E960",
+        "nombre": "Glicósidos de Esteviol",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E960.html"
+    },
+    {
+        "numero": "E960a",
+        "nombre": "Glicósidos de Esteviol de Stevia Rebaudiana Bertoni",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E960a.html"
+    },
+    {
+        "numero": "E960b",
+        "nombre": "Glicósidos de Esteviol de Fermentación",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E960b.html"
+    },
+    {
+        "numero": "E960b(i)",
+        "nombre": "Glicósidos de Esteviol de Yarrowia Lipolytica (Rebaudiósido A)",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E960b-i.html"
+    },
+    {
+        "numero": "E960c",
+        "nombre": "Glicósidos de Esteviol de Enzimas",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E960c.html"
+    },
+    {
+        "numero": "E960d",
+        "nombre": "Glicósidos de Esteviol Glicosilados",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E960d.html"
+    },
+    {
+        "numero": "E961",
+        "nombre": "Neotamo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E961.html"
+    },
+    {
+        "numero": "E962",
+        "nombre": "Sal de Aspartamo y Acesulfamo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E962.html"
+    },
+    {
+        "numero": "E963",
+        "nombre": "Tagatosa",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E963.html"
+    },
+    {
+        "numero": "E964",
+        "nombre": "Jarabe de Poliglicitol",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E964.html"
+    },
+    {
+        "numero": "E965",
+        "nombre": "Maltitoles",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E965.html"
+    },
+    {
+        "numero": "E965i",
+        "nombre": "Maltitol",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E965i.html"
+    },
+    {
+        "numero": "E965ii",
+        "nombre": "Jarabe de Maltitol",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E965ii.html"
+    },
+    {
+        "numero": "E966",
+        "nombre": "Lactitol",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E966.html"
+    },
+    {
+        "numero": "E967",
+        "nombre": "Xilitol",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E967.html"
+    },
+    {
+        "numero": "E968",
+        "nombre": "Eritritol",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E968.html"
+    },
+    {
+        "numero": "E969",
+        "nombre": "Advantame",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E969.html"
+    },
+    {
+        "numero": "E999",
+        "nombre": "Extracto de Quilaya",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E999.html"
+    },
+    {
+        "numero": "E999i",
+        "nombre": "Extracto de Quilaya (Clase 1)",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E999i.html"
+    },
+    {
+        "numero": "E999ii",
+        "nombre": "Extracto de Quilaya (Clase 2)",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E999ii.html"
+    },
+    {
+        "numero": "E1000",
+        "nombre": "Ácido Cólico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1000.html"
+    },
+    {
+        "numero": "E1001",
+        "nombre": "Sales y Ésteres Colínicos",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1001.html"
+    },
+    {
+        "numero": "E1001i",
+        "nombre": "Acetato Colínico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1001i.html"
+    },
+    {
+        "numero": "E1001ii",
+        "nombre": "Carbonato Colínico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1001ii.html"
+    },
+    {
+        "numero": "E1001iii",
+        "nombre": "Cloruro Colínico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1001iii.html"
+    },
+    {
+        "numero": "E1001iv",
+        "nombre": "Citrato Colínico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1001iv.html"
+    },
+    {
+        "numero": "E1001v",
+        "nombre": "Tartrato Colínico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1001v.html"
+    },
+    {
+        "numero": "E1001vi",
+        "nombre": "Lactato Colínico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1001vi.html"
+    },
+    {
+        "numero": "E1100",
+        "nombre": "Amilasas",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1100.html"
+    },
+    {
+        "numero": "E1100i",
+        "nombre": "Alfa-Amilasa de Aspergillus Oryzae",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1100i.html"
+    },
+    {
+        "numero": "E1100ii",
+        "nombre": "Alfa-Amilasa de Bacillus Stearothermophilus",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1100ii.html"
+    },
+    {
+        "numero": "E1100iii",
+        "nombre": "Alfa-Amilasa de Bacillus Subtilis",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1100iii.html"
+    },
+    {
+        "numero": "E1100iv",
+        "nombre": "Alfa-Amilasa de Bacillus Megaterium",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1100iv.html"
+    },
+    {
+        "numero": "E1100v",
+        "nombre": "Alfa-Amilasa de Geobacillus Stearothermophilus",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1100v.html"
+    },
+    {
+        "numero": "E1100vi",
+        "nombre": "Carbohidrasa de Bacillus Licheniformis",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1100vi.html"
+    },
+    {
+        "numero": "E1101",
+        "nombre": "Proteasas",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1101.html"
+    },
+    {
+        "numero": "E1101i",
+        "nombre": "Proteasa de Aspergillus Oryzae",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1101i.html"
+    },
+    {
+        "numero": "E1101ii",
+        "nombre": "Papaína",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1101ii.html"
+    },
+    {
+        "numero": "E1101iii",
+        "nombre": "Bromelaína",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1101iii.html"
+    },
+    {
+        "numero": "E1101iv",
+        "nombre": "Ficina",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1101iv.html"
+    },
+    {
+        "numero": "E1101v",
+        "nombre": "Proteasa de Streptomyces Fradiae",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1101v.html"
+    },
+    {
+        "numero": "E1101vi",
+        "nombre": "Proteasa de Bacillus Subtilis",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1101vi.html"
+    },
+    {
+        "numero": "E1102",
+        "nombre": "Glucosa Oxidasa",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1102.html"
+    },
+    {
+        "numero": "E1103",
+        "nombre": "Invertasas",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E1103.html"
+    },
+    {
+        "numero": "E1104",
+        "nombre": "Lipasas",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1104.html"
+    },
+    {
+        "numero": "E1105",
+        "nombre": "Lisozima",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1105.html"
+    },
+    {
+        "numero": "E1200",
+        "nombre": "Polidextrosas",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E1200.html"
+    },
+    {
+        "numero": "E1201",
+        "nombre": "Polivinilpirrolidona (PVP)",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E1201.html"
+    },
+    {
+        "numero": "E1202",
+        "nombre": "Polivinilpolipirrolidona (PVPP)",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E1202.html"
+    },
+    {
+        "numero": "E1203",
+        "nombre": "Alcohol Polivinílico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1203.html"
+    },
+    {
+        "numero": "E1204",
+        "nombre": "Pululano",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E1204.html"
+    },
+    {
+        "numero": "E1205",
+        "nombre": "Copolímero de Metacrilato Básico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1205.html"
+    },
+    {
+        "numero": "E1206",
+        "nombre": "Copolímero de Metacrilato Neutro",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1206.html"
+    },
+    {
+        "numero": "E1207",
+        "nombre": "Copolímero de Metacrilato Aniónico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1207.html"
+    },
+    {
+        "numero": "E1208",
+        "nombre": "Copolímero de Acetato de Vinilo",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E1208.html"
+    },
+    {
+        "numero": "E1209",
+        "nombre": "Copolímero de Injerto de Polivinialcohol (PVA) y Polietilenglicol (PVE)",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1209.html"
+    },
+    {
+        "numero": "E1210",
+        "nombre": "Poliacrilato Sódico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1210.html"
+    },
+    {
+        "numero": "E1400",
+        "nombre": "Dextrinas",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1400.html"
+    },
+    {
+        "numero": "E1401",
+        "nombre": "Almidón Ácido",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1401.html"
+    },
+    {
+        "numero": "E1402",
+        "nombre": "Almidón Alcalino",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1402.html"
+    },
+    {
+        "numero": "E1403",
+        "nombre": "Almidón Blanqueado",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1403.html"
+    },
+    {
+        "numero": "E1404",
+        "nombre": "Almidón Oxidado",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1404.html"
+    },
+    {
+        "numero": "E1405",
+        "nombre": "Almidón Enzimático",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1405.html"
+    },
+    {
+        "numero": "E1410",
+        "nombre": "Fosfato de Monoalmidón",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1410.html"
+    },
+    {
+        "numero": "E1412",
+        "nombre": "Fosfato de Dialmidón",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1412.html"
+    },
+    {
+        "numero": "E1413",
+        "nombre": "Fosfato de Dialmidón Fosfatado",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1413.html"
+    },
+    {
+        "numero": "E1414",
+        "nombre": "Fosfato de Dialmidón Acetilado",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1414.html"
+    },
+    {
+        "numero": "E1420",
+        "nombre": "Almidón Acetilado",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1420.html"
+    },
+    {
+        "numero": "E1422",
+        "nombre": "Adipato de Dialmidón Acetilado",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1422.html"
+    },
+    {
+        "numero": "E1440",
+        "nombre": "Hidroxipropil-Almidón",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1440.html"
+    },
+    {
+        "numero": "E1441",
+        "nombre": "Glicerona de Dialmidón Hidroxipropilado",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1441.html"
+    },
+    {
+        "numero": "E1442",
+        "nombre": "Fosfato de Dialmidón Hidroxipropilado",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1442.html"
+    },
+    {
+        "numero": "E1450",
+        "nombre": "Octenil-Succinato Sódico de Almidón",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1450.html"
+    },
+    {
+        "numero": "E1451",
+        "nombre": "Almidón Oxidado Acetilado",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1451.html"
+    },
+    {
+        "numero": "E1452",
+        "nombre": "Octenil-Succinato Alumínico de Almidón",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1452.html"
+    },
+    {
+        "numero": "E1501",
+        "nombre": "Hidrocarbonos Bencilados",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1501.html"
+    },
+    {
+        "numero": "E1502",
+        "nombre": "Butanodiol",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1502.html"
+    },
+    {
+        "numero": "E1503",
+        "nombre": "Aceite de Ricino",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1503.html"
+    },
+    {
+        "numero": "E1504",
+        "nombre": "Ciclotetraglucosas",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1504.html"
+    },
+    {
+        "numero": "E1504i",
+        "nombre": "Ciclotetraglucosa",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1504i.html"
+    },
+    {
+        "numero": "E1504ii",
+        "nombre": "Jarabe de Ciclotetraglucosa",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1504ii.html"
+    },
+    {
+        "numero": "E1505",
+        "nombre": "Citrato Trietílico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1505.html"
+    },
+    {
+        "numero": "E1510",
+        "nombre": "Alcohol Etílico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1510.html"
+    },
+    {
+        "numero": "E1516",
+        "nombre": "Monoacetato de Glicerilo",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E1516.html"
+    },
+    {
+        "numero": "E1517",
+        "nombre": "Diacetato de Glicerilo",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E1517.html"
+    },
+    {
+        "numero": "E1518",
+        "nombre": "Triacetato de Glicerilo",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E1518.html"
+    },
+    {
+        "numero": "E1519",
+        "nombre": "Alcohol Bencílico",
+        "toxicidad": "Media",
+        "enlace_numero": "/2016/01/E1519.html"
+    },
+    {
+        "numero": "E1520",
+        "nombre": "Propilenglicol",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E1520.html"
+    },
+    {
+        "numero": "E1521",
+        "nombre": "Polietilenglicol",
+        "toxicidad": "Alta",
+        "enlace_numero": "/2016/01/E1521.html"
+    },
+    {
+        "numero": "E1522",
+        "nombre": "Lignosulfonato Cálcico",
+        "toxicidad": "En revisión",
+        "enlace_numero": "/2016/01/E1522.html"
+    }
+]

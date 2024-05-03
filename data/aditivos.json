@@ -1,5 +1,11 @@
 [
     {
+        "numero": "E100",
+        "nombre": "Curcuminas",
+        "toxicidad": "Baja",
+        "enlace_numero": "/2016/01/E100.html"
+    }
+    {
         "numero": "E100i",
         "nombre": "Curcumina",
         "toxicidad": "Baja",

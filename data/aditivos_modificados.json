@@ -1,0 +1,4508 @@
+[
+    {
+        "numero": "E100",
+        "nombre": "Curcuminas",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    }
+    {
+        "numero": "E100i",
+        "nombre": "Curcumina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E100ii",
+        "nombre": "C\u00farcuma",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E101",
+        "nombre": "Riboflavinas",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E101i",
+        "nombre": "Riboflavina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E101ii",
+        "nombre": "Fosfato de Riboflavina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E101iii",
+        "nombre": "Riboflavina de Bacillus Subtilis",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E101iv",
+        "nombre": "Riboflavina de Ashbya Gossypii",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E102",
+        "nombre": "Tartracina",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E103",
+        "nombre": "Criso\u00edna",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E104",
+        "nombre": "Amarillo de Quinole\u00edna",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E105",
+        "nombre": "Amarillo S\u00f3lido",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E107",
+        "nombre": "Amarillo 2G",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E110",
+        "nombre": "Amarillo Ocaso FCF",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E111",
+        "nombre": "Naranja GGN",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E120",
+        "nombre": "\u00c1cido Carm\u00ednico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E120i",
+        "nombre": "Rojo Carm\u00edn",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E120ii",
+        "nombre": "Extracto de Cochinilla",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E121",
+        "nombre": "Rojo C\u00edtrico 2",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E122",
+        "nombre": "Azorrubina",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E123",
+        "nombre": "Amaranto",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E124",
+        "nombre": "Ponceau 4R",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E125",
+        "nombre": "Ponceau SX",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E126",
+        "nombre": "Ponceau 6R",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E127",
+        "nombre": "Eritrosina",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E128",
+        "nombre": "Rojo 2G",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E129",
+        "nombre": "Rojo Allura AC",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E130",
+        "nombre": "Azul de Antraquinona",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E131",
+        "nombre": "Azul Patente V",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E132",
+        "nombre": "Indigotina",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E133",
+        "nombre": "Azul Brillante FCF",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E134",
+        "nombre": "Extracto de Espirulina",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E140",
+        "nombre": "Clorofilas y Clorofilinas",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E140i",
+        "nombre": "Clorofila",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E140ii",
+        "nombre": "Clorofilina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E141",
+        "nombre": "Complejos C\u00fapricos de Clorofilas y Clorofilinas",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E141i",
+        "nombre": "Complejo C\u00faprico de Clorofila",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E141ii",
+        "nombre": "Complejo C\u00faprico de Clorofilina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E142",
+        "nombre": "Verde S",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E143",
+        "nombre": "Verde S\u00f3lido FCF",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E150",
+        "nombre": "Caramelos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E150a",
+        "nombre": "Caramelo C\u00e1ustico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E150b",
+        "nombre": "Caramelo Ca\u00fastico de Sulfito",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E150c",
+        "nombre": "Caramelo Am\u00f3nico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E150d",
+        "nombre": "Caramelo Am\u00f3nico de Sulfito",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E151",
+        "nombre": "Negro Brillante BN",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E152",
+        "nombre": "Negro 7984",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E153",
+        "nombre": "Carb\u00f3n Vegetal",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E154",
+        "nombre": "Marr\u00f3n FK",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E155",
+        "nombre": "Marr\u00f3n HT",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160",
+        "nombre": "Carotenos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160a",
+        "nombre": "Betacarotenos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160a(i)",
+        "nombre": "Betacaroteno Sint\u00e9tico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160a(ii)",
+        "nombre": "Betacaroteno Vegetal",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160a(iii)",
+        "nombre": "Betacaroteno de Blakeslea Trispora",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160a(iv)",
+        "nombre": "Betacaroteno de Algas",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160b",
+        "nombre": "Extractos de Annato",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160b(i)",
+        "nombre": "Extracto de Annato con Disolventes",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160b(ii)",
+        "nombre": "Extracto de Annato con \u00c1lcalis",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160b(iii)",
+        "nombre": "Extracto de Annato con Aceite",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160c",
+        "nombre": "Extractos de Piment\u00f3n",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160c(i)",
+        "nombre": "Oleorresina de Piment\u00f3n",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160c(ii)",
+        "nombre": "Extracto de Piment\u00f3n",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160d",
+        "nombre": "Licopenos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160d(i)",
+        "nombre": "Licopeno Sint\u00e9tico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160d(ii)",
+        "nombre": "Licopeno de Tomate",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160d(iii)",
+        "nombre": "Licopeno de Blakeslea Trispora",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160e",
+        "nombre": "Beta-Apo-8'-Carotenal (C30)",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E160f",
+        "nombre": "\u00c9ster Et\u00edlico del \u00c1cido Beta-Apo-8'-Carotenoico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161",
+        "nombre": "Xant\u00f3filas",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161a",
+        "nombre": "Flavoxantina",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161b",
+        "nombre": "Lute\u00ednas",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161b(i)",
+        "nombre": "Lute\u00edna de Tagetes Erecta",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161b(ii)",
+        "nombre": "Extracto de Tagetes",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161b(iii)",
+        "nombre": "\u00c9steres de Lute\u00ednas de Tagetes Erecta",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161c",
+        "nombre": "Criptoxantina",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161d",
+        "nombre": "Rubixantina",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161e",
+        "nombre": "Violaxantina",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161f",
+        "nombre": "Rodoxantina",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161g",
+        "nombre": "Cantaxantina",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161h",
+        "nombre": "Zeaxantinas",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161h(i)",
+        "nombre": "Zeaxantina Sint\u00e9tica",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161h(ii)",
+        "nombre": "Zeaxantina Rica en Extracto de Tagetes Erecta",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161i",
+        "nombre": "Citranaxantina",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E161j",
+        "nombre": "Astaxantina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E162",
+        "nombre": "Rojo de Remolacha",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163",
+        "nombre": "Antocianinas",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163i",
+        "nombre": "Extracto de R\u00e1bano",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163ii",
+        "nombre": "Extracto de Piel de Uva",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163iii",
+        "nombre": "Extracto de Grosella Negra",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163iv",
+        "nombre": "Colorante de Ma\u00edz morado",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163v",
+        "nombre": "Colorante de Col Lombarda",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163vi",
+        "nombre": "Extracto de Zanahoria Negra",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163vii",
+        "nombre": "Colorante de Batata Morada",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163viii",
+        "nombre": "Colorante de R\u00e1bano Rojo",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163ix",
+        "nombre": "Colorante de Sa\u00faco",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163x",
+        "nombre": "Colorante de Hibisco",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163xi",
+        "nombre": "Extracto de Campanilla Azul",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163a",
+        "nombre": "Cianidina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163b",
+        "nombre": "Delfinidina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163c",
+        "nombre": "Malvidina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163d",
+        "nombre": "Pelargonidina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163e",
+        "nombre": "Peonidina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E163f",
+        "nombre": "Petunidina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E164",
+        "nombre": "Amarillo de Gardenia",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E165",
+        "nombre": "Azul de Gardenia",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E166",
+        "nombre": "Madera de S\u00e1ndalo",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E170",
+        "nombre": "Carbonatos C\u00e1lcicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E170i",
+        "nombre": "Carbonato C\u00e1lcico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E170ii",
+        "nombre": "Bicarbonato C\u00e1lcico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E171",
+        "nombre": "Di\u00f3xido de Titanio",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E172",
+        "nombre": "\u00d3xidos e Hidr\u00f3xidos F\u00e9rricos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E172i",
+        "nombre": "\u00d3xido F\u00e9rrico Negro",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E172ii",
+        "nombre": "\u00d3xido F\u00e9rrico Rojo",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E172iii",
+        "nombre": "\u00d3xido F\u00e9rrico Amarillo",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E173",
+        "nombre": "Aluminio Comestible",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E174",
+        "nombre": "Plata Comestible",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E175",
+        "nombre": "Oro Comestible",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E176",
+        "nombre": "Pigmentos Nacarados de Aluminosilicato Pot\u00e1sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E176i",
+        "nombre": "Pigmentos Nacarados de Aluminosilicato Pot\u00e1sico Recubiertos de Di\u00f3xido de Titanio",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E176ii",
+        "nombre": "Pigmentos Nacarados de Aluminosilicato Pot\u00e1sico Recubiertos de \u00d3xido de Hierro",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E176iii",
+        "nombre": "Pigmentos Nacarados de Aluminosilicato Pot\u00e1sico Recubiertos de Di\u00f3xido de Titanio y \u00d3xido de Hierro",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E180",
+        "nombre": "Litolrubina BK",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E181",
+        "nombre": "\u00c1cido T\u00e1nico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E182",
+        "nombre": "Orce\u00edna",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E183",
+        "nombre": "Azul de Jagua",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E200",
+        "nombre": "\u00c1cido S\u00f3rbico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E201",
+        "nombre": "Sorbato S\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E202",
+        "nombre": "Sorbato Pot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E203",
+        "nombre": "Sorbato C\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E209",
+        "nombre": "Para-Hidroxibenzoato de Heptilo",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E210",
+        "nombre": "\u00c1cido Benzoico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E211",
+        "nombre": "Benzoato S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E212",
+        "nombre": "Benzoato Pot\u00e1sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E213",
+        "nombre": "Benzoato C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E214",
+        "nombre": "Para-Hidroxibenzoato de Etilo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E215",
+        "nombre": "Para-Hidroxibenzoato S\u00f3dico de Etilo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E216",
+        "nombre": "Para-Hidroxibenzoato de Propilo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E217",
+        "nombre": "Para-Hidroxibenzoato S\u00f3dico de Propilo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E218",
+        "nombre": "Para-Hidroxibenzoato de Metilo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E219",
+        "nombre": "Para-Hidroxibenzoato S\u00f3dico de Metilo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E220",
+        "nombre": "Di\u00f3xido de Azufre",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E221",
+        "nombre": "Sulfito S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E222",
+        "nombre": "Bisulfito S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E223",
+        "nombre": "Metabisulfito S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E224",
+        "nombre": "Metabisulfito Pot\u00e1sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E225",
+        "nombre": "Sulfito Pot\u00e1sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E226",
+        "nombre": "Sulfito C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E227",
+        "nombre": "Bisulfito C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E228",
+        "nombre": "Bisulfito Pot\u00e1sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E230",
+        "nombre": "Bifenilo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E231",
+        "nombre": "Ortofenilfenol",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E232",
+        "nombre": "Ortofenilfenol S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E233",
+        "nombre": "Tiabendazol",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E234",
+        "nombre": "Nisina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E235",
+        "nombre": "Natamicina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E236",
+        "nombre": "\u00c1cido F\u00f3rmico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E237",
+        "nombre": "Formiato S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E238",
+        "nombre": "Formiato C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E239",
+        "nombre": "Hexametilentetramina",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E240",
+        "nombre": "Formaldeh\u00eddo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E241",
+        "nombre": "Goma de Guayaco",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E242",
+        "nombre": "Dimetil Dicarbonato",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E243",
+        "nombre": "Etil-Lauroil Arginato",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E249",
+        "nombre": "Nitrito Pot\u00e1sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E250",
+        "nombre": "Nitrito S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E251",
+        "nombre": "Nitrato S\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E251i",
+        "nombre": "Nitrato S\u00f3dico S\u00f3lido",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E251ii",
+        "nombre": "Nitrato S\u00f3dico L\u00edquido",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E252",
+        "nombre": "Nitrato Pot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E260",
+        "nombre": "\u00c1cido Ac\u00e9tico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E261",
+        "nombre": "Acetatos Pot\u00e1sicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E261i",
+        "nombre": "Acetato Pot\u00e1sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E261ii",
+        "nombre": "Diacetato Pot\u00e1sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E262",
+        "nombre": "Acetatos S\u00f3dicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E262i",
+        "nombre": "Acetato S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E262ii",
+        "nombre": "Diacetato S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E263",
+        "nombre": "Acetato C\u00e1lcico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E264",
+        "nombre": "Acetato Am\u00f3nico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E265",
+        "nombre": "\u00c1cido Dehidroac\u00e9tico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E266",
+        "nombre": "Dehidroacetato S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E270",
+        "nombre": "\u00c1cido L\u00e1ctico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E280",
+        "nombre": "\u00c1cido Propi\u00f3nico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E281",
+        "nombre": "Propionato S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E282",
+        "nombre": "Propionato C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E283",
+        "nombre": "Propionato Pot\u00e1sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E284",
+        "nombre": "\u00c1cido B\u00f3rico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E285",
+        "nombre": "Tetraborato S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E290",
+        "nombre": "Di\u00f3xido de Carbono (CO2)",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E296",
+        "nombre": "\u00c1cido M\u00e1lico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E297",
+        "nombre": "\u00c1cido Fum\u00e1rico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E300",
+        "nombre": "\u00c1cido Asc\u00f3rbico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E301",
+        "nombre": "Ascorbato S\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E302",
+        "nombre": "Ascorbato C\u00e1lcico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E303",
+        "nombre": "Ascorbato Pot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E304",
+        "nombre": "\u00c9steres de \u00c1cidos Grasos del \u00c1cido Asc\u00f3rbico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E304i",
+        "nombre": "Palmitato de Ascorbilo",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E304ii",
+        "nombre": "Estearato de Ascorbilo",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E306",
+        "nombre": "Extractos Naturales Ricos en Tocoferoles",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E307",
+        "nombre": "Alfa-Tocoferol",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E307a",
+        "nombre": "D-Alfa-Tocoferol",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E307b",
+        "nombre": "L-Alfa-Tocoferol",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E307c",
+        "nombre": "DL-Alfa-Tocoferol",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E308",
+        "nombre": "Gamma-Tocoferol",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E309",
+        "nombre": "Delta-Tocoferol",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E310",
+        "nombre": "Galato de Propilo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E311",
+        "nombre": "Galato de Octilo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E312",
+        "nombre": "Galato de Dodecilo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E313",
+        "nombre": "Galato de Etilo",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E314",
+        "nombre": "Resina de Guayaco",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E315",
+        "nombre": "\u00c1cido Erit\u00f3rbico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E316",
+        "nombre": "Eritorbato S\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E317",
+        "nombre": "Eritorbato Pot\u00e1sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E318",
+        "nombre": "Eritorbato C\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E319",
+        "nombre": "Terbutilhidroquinona (TBHQ)",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E320",
+        "nombre": "Butilhidroxianisol (BHA)",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E321",
+        "nombre": "Butilhidroxitolueno (BHT)",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E322",
+        "nombre": "Lecitinas",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E322i",
+        "nombre": "Lecitina de Avena",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E322ii",
+        "nombre": "Lecitina Parcialmente Hidrolizada",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E322iii",
+        "nombre": "Lecitina Hidroxilada",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E323",
+        "nombre": "Anox\u00f3mero",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E324",
+        "nombre": "Etoxiquina",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E325",
+        "nombre": "Lactato S\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E326",
+        "nombre": "Lactato Pot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E327",
+        "nombre": "Lactato C\u00e1lcico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E328",
+        "nombre": "Lactato Am\u00f3nico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E329",
+        "nombre": "Lactato Magn\u00e9sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E330",
+        "nombre": "\u00c1cido C\u00edtrico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E331",
+        "nombre": "Citratos S\u00f3dicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E331i",
+        "nombre": "Citrato Monos\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E331ii",
+        "nombre": "Citrato Dis\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E331iii",
+        "nombre": "Citrato Tris\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E332",
+        "nombre": "Citratos Pot\u00e1sicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E332i",
+        "nombre": "Citrato Monopot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E332ii",
+        "nombre": "Citrato Dipot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E332iii",
+        "nombre": "Citrato Tripot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E333",
+        "nombre": "Citratos C\u00e1lcicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E333i",
+        "nombre": "Citrato Monoc\u00e1lcico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E333ii",
+        "nombre": "Citrato Dic\u00e1lcico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E333iii",
+        "nombre": "Citrato Tric\u00e1lcico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E334",
+        "nombre": "\u00c1cido Tart\u00e1rico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E335",
+        "nombre": "Tartratos S\u00f3dicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E335i",
+        "nombre": "Tartrato Monos\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E335ii",
+        "nombre": "Tartrato Dis\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E336",
+        "nombre": "Tartratos Pot\u00e1sicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E336i",
+        "nombre": "Tartrato Monopot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E336ii",
+        "nombre": "Tartrato Dipot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E337",
+        "nombre": "Tartrato S\u00f3dico-Pot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E338",
+        "nombre": "\u00c1cido Fosf\u00f3rico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E339",
+        "nombre": "Fosfatos S\u00f3dicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E339i",
+        "nombre": "Fosfato Monos\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E339ii",
+        "nombre": "Fosfato Dis\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E339iii",
+        "nombre": "Fosfato Tris\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E340",
+        "nombre": "Fosfatos Pot\u00e1sicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E340i",
+        "nombre": "Fosfato Monopot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E340ii",
+        "nombre": "Fosfato Dipot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E340iii",
+        "nombre": "Fosfato Tripot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E341",
+        "nombre": "Fosfatos C\u00e1lcicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E341i",
+        "nombre": "Fosfato Monoc\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E341ii",
+        "nombre": "Fosfato Dic\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E341iii",
+        "nombre": "Fosfato Tric\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E342",
+        "nombre": "Fosfatos Am\u00f3nicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E342i",
+        "nombre": "Fosfato Monoam\u00f3nico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E342ii",
+        "nombre": "Fosfato Diam\u00f3nico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E342iii",
+        "nombre": "Fosfato Triam\u00f3nico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E343",
+        "nombre": "Fosfatos Magn\u00e9sicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E343i",
+        "nombre": "Fosfato Monomagn\u00e9sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E343ii",
+        "nombre": "Fosfato Dimagn\u00e9sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E343iii",
+        "nombre": "Fosfato Trimagn\u00e9sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E344",
+        "nombre": "Citrato Lecit\u00ednico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E345",
+        "nombre": "Citrato Magn\u00e9sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E349",
+        "nombre": "Malatos Am\u00f3nicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E349i",
+        "nombre": "Malato de Amonio",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E349ii",
+        "nombre": "Malato \u00c1cido de Amonio",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E350",
+        "nombre": "Malatos S\u00f3dicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E350i",
+        "nombre": "Malato de Sodio",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E350ii",
+        "nombre": "Malato \u00c1cido de Sodio",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E351",
+        "nombre": "Malatos Pot\u00e1sicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E351i",
+        "nombre": "Malato de Potasio",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E351ii",
+        "nombre": "Malato \u00c1cido de Potasio",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E352",
+        "nombre": "Malatos C\u00e1lcicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E352i",
+        "nombre": "Malato de Calcio",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E352ii",
+        "nombre": "Malato \u00c1cido de Calcio",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E353",
+        "nombre": "\u00c1cido Metatart\u00e1rico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E354",
+        "nombre": "Tartratos C\u00e1lcicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E354i",
+        "nombre": "Tartrato Monoc\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E354ii",
+        "nombre": "Tartrato Dic\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E355",
+        "nombre": "\u00c1cido Ad\u00edpico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E356",
+        "nombre": "Adipato S\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E357",
+        "nombre": "Adipato Pot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E358",
+        "nombre": "Adipato C\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E359",
+        "nombre": "Adipato Am\u00f3nico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E360",
+        "nombre": "Adipato Magn\u00e9sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E363",
+        "nombre": "\u00c1cido Succ\u00ednico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E364",
+        "nombre": "Succinatos S\u00f3dicos",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E364i",
+        "nombre": "Succinato Monos\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E364ii",
+        "nombre": "Succinato Dis\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E365",
+        "nombre": "Fumarato S\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E366",
+        "nombre": "Fumarato Pot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E367",
+        "nombre": "Fumarato C\u00e1lcico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E368",
+        "nombre": "Fumarato Am\u00f3nico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E369",
+        "nombre": "Fumarato Magn\u00e9sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E370",
+        "nombre": "Heptonolactona",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E375",
+        "nombre": "\u00c1cido Nicot\u00ednico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E380",
+        "nombre": "Citrato Triam\u00f3nico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E381",
+        "nombre": "Citrato Am\u00f3nico-F\u00e9rrico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E383",
+        "nombre": "Glicerofosfato C\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E384",
+        "nombre": "Citrato Isoprop\u00edlico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E385",
+        "nombre": "Etileno Diamina Tetra Acetato (EDTA)",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E386",
+        "nombre": "\u00c1cido Etileno Diamino Tetraac\u00e9tico (AEDT)",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E387",
+        "nombre": "Oxiestearina",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E388",
+        "nombre": "\u00c1cido Tiodipropi\u00f3nico (TDPA)",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E389",
+        "nombre": "Tiodipropionato de Dilaurilo",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E390",
+        "nombre": "Tiodipropionato de Distearilo",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E391",
+        "nombre": "\u00c1cido F\u00edtico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E392",
+        "nombre": "Extractos de Romero",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E392i",
+        "nombre": "Extracto de Romero con Acetona",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E392ii",
+        "nombre": "Extracto de Romero con Di\u00f3xido de Carbono Supercr\u00edtico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E392iii",
+        "nombre": "Extracto de Romero con Etanol",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E392iv",
+        "nombre": "Extracto de Romero con Hexano y Etanol",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E399",
+        "nombre": "Lactobionato C\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E400",
+        "nombre": "\u00c1cido Alg\u00ednico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E401",
+        "nombre": "Alginato S\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E402",
+        "nombre": "Alginato Pot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E403",
+        "nombre": "Alginato Am\u00f3nico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E404",
+        "nombre": "Alginato C\u00e1lcico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E405",
+        "nombre": "Alginato Propilenglic\u00f3lico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E406",
+        "nombre": "Agar-Agar",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E407",
+        "nombre": "Carragenanos",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E407a",
+        "nombre": "Algas Euchema Transformadas",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E408",
+        "nombre": "Glicano de Levadura Panaria",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E409",
+        "nombre": "Arabinogalactano",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E410",
+        "nombre": "Goma Garrof\u00edn",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E411",
+        "nombre": "Goma de Avena",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E412",
+        "nombre": "Goma Guar",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E413",
+        "nombre": "Goma Tragacanto",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E414",
+        "nombre": "Goma Ar\u00e1biga",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E415",
+        "nombre": "Goma Xantana",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E416",
+        "nombre": "Goma Karaya",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E417",
+        "nombre": "Goma Tara",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E418",
+        "nombre": "Goma Gellan",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E419",
+        "nombre": "Goma Ghatti",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E420",
+        "nombre": "Sorbitoles",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E420i",
+        "nombre": "Sorbitol",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E420ii",
+        "nombre": "Jarabe de Sorbitol",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E421",
+        "nombre": "Manitoles",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E421i",
+        "nombre": "Manitol",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E421ii",
+        "nombre": "Manitol Fermentado",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E422",
+        "nombre": "Glicerol",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E423",
+        "nombre": "\u00c1cido Octenil-Succ\u00ednico (OSA)",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E424",
+        "nombre": "Curdlan",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E425",
+        "nombre": "Konjac",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E425i",
+        "nombre": "Goma de Konjac",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E425ii",
+        "nombre": "Glucomanano de Konjac",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E426",
+        "nombre": "Hemicelulosa de Soja",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E427",
+        "nombre": "Goma Casia",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E428",
+        "nombre": "Gelatina Neutra",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E429",
+        "nombre": "Peptonas",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E429i",
+        "nombre": "Peptona P\u00e9psica",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E429ii",
+        "nombre": "Peptona Pancre\u00e1tica",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E430",
+        "nombre": "Estearato de Polioxietileno 8",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E431",
+        "nombre": "Estearato de Polioxietileno 40",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E432",
+        "nombre": "Monolaurato de Sorbit\u00e1n Polioxietinelado (Polisorbato 20)",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E433",
+        "nombre": "Monooleato de Sorbit\u00e1n Polioxietinelado (Polisorbato 80)",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E434",
+        "nombre": "Monopalmitato de Sorbit\u00e1n Polioxietinelado (Polisorbato 40)",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E435",
+        "nombre": "Monoestearato de Sorbit\u00e1n Polioxietinelado (Polisorbato 60)",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E436",
+        "nombre": "Triestearato de Sorbit\u00e1n Polioxietinelado (Polisorbato 65)",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E440",
+        "nombre": "Pectinas",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E440i",
+        "nombre": "Pectina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E440ii",
+        "nombre": "Pectina Amidada",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E441",
+        "nombre": "Aceite de Semilla de Colza Superglicerinado Hidrogenado",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E442",
+        "nombre": "Fosf\u00e1tidos Am\u00f3nicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E443",
+        "nombre": "Aceite Vegetal Bromado",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E444",
+        "nombre": "Acetato Isobut\u00edrico de Sacarosa",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E445",
+        "nombre": "\u00c9steres Glic\u00e9ridos de Colofonia",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E445i",
+        "nombre": "\u00c9steres Glic\u00e9ridos de Colofonia de Goma",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E445ii",
+        "nombre": "\u00c9steres Glic\u00e9ridos de Colofonia de Aceite de Resina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E445iii",
+        "nombre": "\u00c9steres Glic\u00e9ridos de Colofonia de Madera",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E446",
+        "nombre": "Succistearina",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E450",
+        "nombre": "Difosfatos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E450i",
+        "nombre": "Difosfato Dis\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E450ii",
+        "nombre": "Difosfato Tris\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E450iii",
+        "nombre": "Difosfato Tetras\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E450iv",
+        "nombre": "Difosfato Dipot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E450v",
+        "nombre": "Difosfato Tetrapot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E450vi",
+        "nombre": "Difosfato Dic\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E450vii",
+        "nombre": "Difosfato C\u00e1lcico de Dihidr\u00f3geno",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E450viii",
+        "nombre": "Difosfato Dimagn\u00e9sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E450ix",
+        "nombre": "Difosfato Magn\u00e9sico de Dihidr\u00f3geno",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E451",
+        "nombre": "Trifosfatos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E451i",
+        "nombre": "Trifosfato Pentas\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E451ii",
+        "nombre": "Trifosfato Pentapot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E451iii",
+        "nombre": "Trifosfato S\u00f3dico-Pot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E452",
+        "nombre": "Polifosfatos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E452i",
+        "nombre": "Polifosfato S\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E452ii",
+        "nombre": "Polifosfato Pot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E452iii",
+        "nombre": "Polifosfato S\u00f3dico-C\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E452iv",
+        "nombre": "Polifosfato C\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E452v",
+        "nombre": "Polifosfato Am\u00f3nico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E452vi",
+        "nombre": "Hexametafosfato S\u00f3dico-Pot\u00e1sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E453",
+        "nombre": "Ortofosfato Ferroso",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E454",
+        "nombre": "Pirofosfato Ferroso",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E455",
+        "nombre": "Mannoprote\u00ednas de Levadura",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E456",
+        "nombre": "Poliaspartato Pot\u00e1sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E457",
+        "nombre": "Alfa-Ciclodextrina",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E458",
+        "nombre": "Gamma-Ciclodextrina",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E459",
+        "nombre": "Beta-Ciclodextrina",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E460",
+        "nombre": "Celulosas",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E460i",
+        "nombre": "Celulosa Microcristalina",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E460ii",
+        "nombre": "Celulosa en Polvo",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E461",
+        "nombre": "Metil-Celulosa",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E462",
+        "nombre": "Etil-Celulosa",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E463",
+        "nombre": "Hidroxipropil-Celulosa",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E464",
+        "nombre": "Hidroxipropilmetil-Celulosa",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E465",
+        "nombre": "Metiletil-Celulosa",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E466",
+        "nombre": "Carboximetil-Celulosa S\u00f3dica",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E467",
+        "nombre": "Etilhidroxietil-Celulosa",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E468",
+        "nombre": "Carboximetil-Celulosa S\u00f3dica Entrelazada",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E469",
+        "nombre": "Carboximetil-Celulosa S\u00f3dica Hidrolizada Enzim\u00e1ticamente",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E470",
+        "nombre": "Sales de \u00c1cidos Grasos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E470i",
+        "nombre": "Sales de \u00c1cidos Mir\u00edsticos, Palm\u00edticos y Este\u00e1ricos",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E470ii",
+        "nombre": "Sales de \u00c1cidos Oleicos",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E470iii",
+        "nombre": "Sales de \u00c1cidos Este\u00e1ricos Magn\u00e9sicos",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E470a",
+        "nombre": "Estearato de Sodio, Potasio y Calcio",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E470b",
+        "nombre": "Estearato de Magnesio",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E471",
+        "nombre": "Monoglic\u00e9ridos y Diglic\u00e9ridos de \u00c1cidos Grasos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E472",
+        "nombre": "\u00c9steres de Monoglic\u00e9ridos y Diglic\u00e9ridos de \u00c1cidos Grasos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E472a",
+        "nombre": "\u00c9steres Ac\u00e9ticos de Monoglic\u00e9ridos y Diglic\u00e9ridos de \u00c1cidos Grasos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E472b",
+        "nombre": "\u00c9steres L\u00e1cticos de Monoglic\u00e9ridos y Diglic\u00e9ridos de \u00c1cidos Grasos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E472c",
+        "nombre": "\u00c9steres C\u00edtricos de Monoglic\u00e9ridos y Diglic\u00e9ridos de \u00c1cidos Grasos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E472d",
+        "nombre": "\u00c9steres Tart\u00e1ricos de Monoglic\u00e9ridos y Diglic\u00e9ridos de \u00c1cidos Grasos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E472e",
+        "nombre": "\u00c9steres Monoacetiltart\u00e1rico y Diacetiltart\u00e1rico de Monoglic\u00e9ridos y Diglic\u00e9ridos de \u00c1cidos Grasos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E472f",
+        "nombre": "\u00c9steres Mixtos Ac\u00e9ticos y Tart\u00e1ricos de Monoglic\u00e9ridos y Diglic\u00e9ridos de \u00c1cidos Grasos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E472g",
+        "nombre": "Monoglic\u00e9ridos Succinilados",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E473",
+        "nombre": "Sucro\u00e9steres de \u00c1cidos Grasos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E473a",
+        "nombre": "Oligo\u00e9steres de Sacarosa",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E474",
+        "nombre": "Sucroglic\u00e9ridos de \u00c1cidos Grasos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E475",
+        "nombre": "\u00c9steres Poliglic\u00e9ridos de \u00c1cidos Grasos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E476",
+        "nombre": "Polirricinoleato de Poliglicerol",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E477",
+        "nombre": "\u00c9steres de Propilenglicol de \u00c1cidos Grasos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E478",
+        "nombre": "\u00c9steres de Glicerol y Propilenglicol de \u00c1cidos Grasos Lactilados",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E479",
+        "nombre": "Aceites de Soja Oxidados",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E479a",
+        "nombre": "Aceite de Soja Oxidado T\u00e9rmicamente",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E479b",
+        "nombre": "Aceite de Soja Oxidado T\u00e9rmicamente en Interacci\u00f3n con Monoglic\u00e9ridos y Diglic\u00e9ridos de \u00c1cidos Grasos (TOSOM)",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E480",
+        "nombre": "Dioctil Sulfosuccinato S\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E481",
+        "nombre": "Lactilatos S\u00f3dicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E481i",
+        "nombre": "Estearoil Lactilato S\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E481ii",
+        "nombre": "Lactilato Oleico S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E482",
+        "nombre": "Lactilatos C\u00e1lcicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E482i",
+        "nombre": "Estearoil Lactilato C\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E482ii",
+        "nombre": "Lactilato Oleico C\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E483",
+        "nombre": "Tartrato Estear\u00edlico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E484",
+        "nombre": "Citrato Estear\u00edlico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E485",
+        "nombre": "Estearoil Fumarato S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E486",
+        "nombre": "Estearoil Fumarato C\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E487",
+        "nombre": "Lauril-Sulfato S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E488",
+        "nombre": "Monoglic\u00e9ridos y Diglic\u00e9ridos Etoxilados",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E489",
+        "nombre": "\u00c9ster Metilgluc\u00f3sido del Aceite de Coco",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E491",
+        "nombre": "Monoestearato de Sorbitano",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E492",
+        "nombre": "Triestearato de Sorbitano",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E493",
+        "nombre": "Monolaurato de Sorbitano",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E494",
+        "nombre": "Monooleato de Sorbitano",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E495",
+        "nombre": "Monopalmitato de Sorbitano",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E496",
+        "nombre": "Trioleato de Sorbitano",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E499",
+        "nombre": "Fitoesteroles Ricos en Estigmasterol",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E500",
+        "nombre": "Carbonatos S\u00f3dicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E500i",
+        "nombre": "Carbonato S\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E500ii",
+        "nombre": "Bicarbonato S\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E500iii",
+        "nombre": "Sesquicarbonato S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E501",
+        "nombre": "Carbonatos Pot\u00e1sicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E501i",
+        "nombre": "Carbonato Pot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E501ii",
+        "nombre": "Bicarbonato Pot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E503",
+        "nombre": "Carbonatos Am\u00f3nicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E503i",
+        "nombre": "Carbonato Am\u00f3nico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E503ii",
+        "nombre": "Bicarbonato Am\u00f3nico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E504",
+        "nombre": "Carbonatos Magn\u00e9sicos",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E504i",
+        "nombre": "Carbonato Magn\u00e9sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E504ii",
+        "nombre": "Bicarbonato Magn\u00e9sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E505",
+        "nombre": "Carbonato Ferroso",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E507",
+        "nombre": "\u00c1cido Clorh\u00eddrico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E508",
+        "nombre": "Cloruro Pot\u00e1sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E509",
+        "nombre": "Cloruro C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E510",
+        "nombre": "Cloruro Am\u00f3nico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E511",
+        "nombre": "Cloruro Magn\u00e9sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E512",
+        "nombre": "Cloruro Esta\u00f1oso",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E513",
+        "nombre": "\u00c1cido Sulf\u00farico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E514",
+        "nombre": "Sulfatos S\u00f3dicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E514i",
+        "nombre": "Sulfato S\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E514ii",
+        "nombre": "Bisulfato S\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E515",
+        "nombre": "Sulfatos Pot\u00e1sicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E515i",
+        "nombre": "Sulfato Pot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E515ii",
+        "nombre": "Bisulfato Pot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E516",
+        "nombre": "Sulfatos C\u00e1lcicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E516i",
+        "nombre": "Sulfato C\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E516ii",
+        "nombre": "Bisulfato C\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E517",
+        "nombre": "Sulfatos Am\u00f3nicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E517i",
+        "nombre": "Sulfato Am\u00f3nico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E517ii",
+        "nombre": "Bisulfato Am\u00f3nico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E518",
+        "nombre": "Sulfatos Magn\u00e9sicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E518i",
+        "nombre": "Sulfato Magn\u00e9sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E518ii",
+        "nombre": "Bisulfato Magn\u00e9sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E519",
+        "nombre": "Sulfatos C\u00fapricos",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E519i",
+        "nombre": "Sulfato C\u00faprico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E519ii",
+        "nombre": "Bisulfato C\u00faprico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E520",
+        "nombre": "Sulfato Alum\u00ednico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E521",
+        "nombre": "Sulfato Alum\u00ednico-S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E522",
+        "nombre": "Sulfato Alum\u00ednico-Pot\u00e1sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E523",
+        "nombre": "Sulfato Alum\u00ednico-Am\u00f3nico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E524",
+        "nombre": "Hidr\u00f3xido S\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E525",
+        "nombre": "Hidr\u00f3xido Pot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E526",
+        "nombre": "Hidr\u00f3xido C\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E527",
+        "nombre": "Hidr\u00f3xido Am\u00f3nico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E528",
+        "nombre": "Hidr\u00f3xido Magn\u00e9sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E529",
+        "nombre": "\u00d3xido C\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E530",
+        "nombre": "\u00d3xido Magn\u00e9sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E534",
+        "nombre": "Tartrato Ferroso",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E535",
+        "nombre": "Ferrocianuro S\u00f3dico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E536",
+        "nombre": "Ferrocianuro Pot\u00e1sico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E537",
+        "nombre": "Hexacianomanganato F\u00e9rrico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E538",
+        "nombre": "Ferrocianuro C\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E539",
+        "nombre": "Tiosulfato S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E540",
+        "nombre": "Fosfato \u00c1cido C\u00e1lcico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E541",
+        "nombre": "Fosfatos Alum\u00ednicos-S\u00f3dicos",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E541i",
+        "nombre": "Fosfato \u00c1cido Alum\u00ednico-S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E541ii",
+        "nombre": "Fosfato B\u00e1sico Alum\u00ednico-S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E542",
+        "nombre": "Fosfato Trib\u00e1sico C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E543",
+        "nombre": "Polifosfatos S\u00f3dicos-C\u00e1lcicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E544",
+        "nombre": "Polifosfatos C\u00e1lcicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E545",
+        "nombre": "Polifosfatos Am\u00f3nicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E546",
+        "nombre": "Polifosfatos Magn\u00e9sicos",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E550",
+        "nombre": "Silicatos S\u00f3dicos",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E550i",
+        "nombre": "Silicato S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E550ii",
+        "nombre": "Metasilicato S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E551",
+        "nombre": "Di\u00f3xido de Silicio",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E552",
+        "nombre": "Silicato C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E553",
+        "nombre": "Silicatos Magn\u00e9sicos",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E553a",
+        "nombre": "Silicato Magn\u00e9sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E553a(i)",
+        "nombre": "Silicato Magn\u00e9sico Sint\u00e9tico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E553a(ii)",
+        "nombre": "Trisilicato Magn\u00e9sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E553b",
+        "nombre": "Talco Magn\u00e9sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E554",
+        "nombre": "Silicato S\u00f3dico-Alum\u00ednico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E555",
+        "nombre": "Silicato Pot\u00e1sico-Alum\u00ednico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E556",
+        "nombre": "Silicato C\u00e1lcico-Alum\u00ednico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E557",
+        "nombre": "Silicato Z\u00edncico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E558",
+        "nombre": "Bentonita",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E559",
+        "nombre": "Silicato Alum\u00ednico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E560",
+        "nombre": "Silicato Pot\u00e1sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E570",
+        "nombre": "\u00c1cido Este\u00e1rico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E574",
+        "nombre": "\u00c1cido Gluc\u00f3nico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E575",
+        "nombre": "Glucono-Delta-Lactona",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E576",
+        "nombre": "Gluconato S\u00f3dico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E577",
+        "nombre": "Gluconato Pot\u00e1sico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E578",
+        "nombre": "Gluconato C\u00e1lcico",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E579",
+        "nombre": "Gluconato Ferroso",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E585",
+        "nombre": "Lactato Ferroso",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E586",
+        "nombre": "Hexilresorcinol",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E620",
+        "nombre": "\u00c1cido Glut\u00e1mico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E621",
+        "nombre": "Glutamato Monos\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E622",
+        "nombre": "Glutamato Monopot\u00e1sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E623",
+        "nombre": "Glutamato C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E624",
+        "nombre": "Glutamato Monoam\u00f3nico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E625",
+        "nombre": "Glutamato Magn\u00e9sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E626",
+        "nombre": "\u00c1cido Guan\u00edlico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E627",
+        "nombre": "Guanilato S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E628",
+        "nombre": "Guanilato Pot\u00e1sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E629",
+        "nombre": "Guanilato C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E630",
+        "nombre": "\u00c1cido Inos\u00ednico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E631",
+        "nombre": "Inosinato S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E632",
+        "nombre": "Inosinato Pot\u00e1sico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E633",
+        "nombre": "Inosinato C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E634",
+        "nombre": "Ribonucle\u00f3tido C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E635",
+        "nombre": "Ribonucle\u00f3tido S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E636",
+        "nombre": "Maltol",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E637",
+        "nombre": "Etilmaltol",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E638",
+        "nombre": "Aspartato S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E639",
+        "nombre": "Alanina",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E640",
+        "nombre": "Glicina y sus Sales S\u00f3dicas",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E640i",
+        "nombre": "Glicina",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E640ii",
+        "nombre": "Glicinato S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E641",
+        "nombre": "Leucina",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E642",
+        "nombre": "Cloruro Lis\u00ednico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E650",
+        "nombre": "Acetato Z\u00edncico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E900",
+        "nombre": "Dimetilsiloxano, DMS",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E900a",
+        "nombre": "Polidimetilsiloxano, PDMS",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E900b",
+        "nombre": "Polimetilfenilsiloxano, PMFS",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E901",
+        "nombre": "Ceras de Abejas",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E901i",
+        "nombre": "Cera de Abejas Blanca",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E901ii",
+        "nombre": "Cera de Abejas Amarilla",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E902",
+        "nombre": "Cera Candelilla",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E903",
+        "nombre": "Cera Carna\u00faba",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E904",
+        "nombre": "Goma Laca",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E904i",
+        "nombre": "Goma Laca Blanca",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E904ii",
+        "nombre": "Goma Laca Naranja",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E905",
+        "nombre": "Cera Microcristalina",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E905a",
+        "nombre": "Aceite Mineral de Calidad Alimentaria",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E905b",
+        "nombre": "Vaselina de Calidad Alimentaria",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E905c",
+        "nombre": "Cera de Parafina",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E905d",
+        "nombre": "Parafina L\u00edquida de Viscosidad Alta",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E905e",
+        "nombre": "Parafina L\u00edquida de Viscosidad Media y Baja (Clase 1)",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E905f",
+        "nombre": "Parafina L\u00edquida de Viscosidad Media y Baja (Clase 2)",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E905g",
+        "nombre": "Parafina L\u00edquida de Viscosidad Media y Baja (Clase 3)",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E906",
+        "nombre": "Goma de Benzo\u00edna",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E907",
+        "nombre": "Poli-1-Deceno Hidrogenado",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E908",
+        "nombre": "Cera de Salvado de Arroz",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E909",
+        "nombre": "Cera de Esperma de Ballena",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E910",
+        "nombre": "\u00c9steres de Cera",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E911",
+        "nombre": "\u00c9steres Met\u00edlicos de \u00c1cidos Grasos",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E912",
+        "nombre": "\u00c9steres de \u00c1cido Mont\u00e1nico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E913",
+        "nombre": "Cera de Lana (Lanolina)",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E914",
+        "nombre": "Cera de Polietileno Oxidada",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E915",
+        "nombre": "\u00c9steres Glicer\u00edlicos, Met\u00edlicos o Pentaeritr\u00edticos de Colofonia Parcialmente Hidrogenada o Polimerizada",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E916",
+        "nombre": "Yodato C\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E917",
+        "nombre": "Yodato Pot\u00e1sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E918",
+        "nombre": "\u00d3xidos de Nitr\u00f3geno",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E919",
+        "nombre": "Cloruro Nitros\u00edlico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E920",
+        "nombre": "L-Ciste\u00edna y Clorhidratos de Ciste\u00edna",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E921",
+        "nombre": "L-Cistina y Clorhidratos de Cistina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E922",
+        "nombre": "Persulfato Pot\u00e1sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E923",
+        "nombre": "Persulfato Am\u00f3nico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E924",
+        "nombre": "Bromatos",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E924a",
+        "nombre": "Bromato Pot\u00e1sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E924b",
+        "nombre": "Bromato C\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E925",
+        "nombre": "Cloro",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E926",
+        "nombre": "Di\u00f3xido de Cloro",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E927",
+        "nombre": "Derivados del \u00c1cido Carb\u00e1mico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E927a",
+        "nombre": "Azodicarbonamida",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E927b",
+        "nombre": "Carbamida (Urea)",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E928",
+        "nombre": "Per\u00f3xido Benzo\u00edlico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E929",
+        "nombre": "Per\u00f3xido Acet\u00f3nico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E930",
+        "nombre": "Per\u00f3xido C\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E938",
+        "nombre": "Arg\u00f3n",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E939",
+        "nombre": "Helio",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E940",
+        "nombre": "Diclorodifluorometano",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E941",
+        "nombre": "Nitr\u00f3geno",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E942",
+        "nombre": "\u00d3xido Nitroso",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E943",
+        "nombre": "Butanos",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E943a",
+        "nombre": "Butano",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E943b",
+        "nombre": "Isobutano",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E944",
+        "nombre": "Propano",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E945",
+        "nombre": "Cloropentafluoroetano",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E946",
+        "nombre": "Octafluorociclobutano",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E948",
+        "nombre": "Ox\u00edgeno",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E949",
+        "nombre": "Hidr\u00f3geno",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E950",
+        "nombre": "Acesulfamo K",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E951",
+        "nombre": "Aspartamo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E952",
+        "nombre": "\u00c1cido Cicl\u00e1mico y sus Sales S\u00f3dicas y C\u00e1lcicas",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E952i",
+        "nombre": "\u00c1cido Cicl\u00e1mico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E952ii",
+        "nombre": "Ciclamato S\u00f3dico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E952iii",
+        "nombre": "Ciclamato C\u00e1lcico",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E953",
+        "nombre": "Isomaltosa",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E954",
+        "nombre": "Sacarina y sus Sales S\u00f3dicas, C\u00e1lcicas y Pot\u00e1sicas",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E954i",
+        "nombre": "Sacarina",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E954ii",
+        "nombre": "Sacarina S\u00f3dica",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E954iii",
+        "nombre": "Sacarina C\u00e1lcica",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E954iv",
+        "nombre": "Sacarina Pot\u00e1sica",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E955",
+        "nombre": "Sucralosa",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E956",
+        "nombre": "Alitame",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E957",
+        "nombre": "Taumatina",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E958",
+        "nombre": "Glicirricina",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E959",
+        "nombre": "Neohesperidina Dihidrocalcona (NHDC)",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E960",
+        "nombre": "Glic\u00f3sidos de Esteviol",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E960a",
+        "nombre": "Glic\u00f3sidos de Esteviol de Stevia Rebaudiana Bertoni",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E960b",
+        "nombre": "Glic\u00f3sidos de Esteviol de Fermentaci\u00f3n",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E960b(i)",
+        "nombre": "Glic\u00f3sidos de Esteviol de Yarrowia Lipolytica (Rebaudi\u00f3sido A)",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E960c",
+        "nombre": "Glic\u00f3sidos de Esteviol de Enzimas",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E960d",
+        "nombre": "Glic\u00f3sidos de Esteviol Glicosilados",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E961",
+        "nombre": "Neotamo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E962",
+        "nombre": "Sal de Aspartamo y Acesulfamo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E963",
+        "nombre": "Tagatosa",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E964",
+        "nombre": "Jarabe de Poliglicitol",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E965",
+        "nombre": "Maltitoles",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E965i",
+        "nombre": "Maltitol",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E965ii",
+        "nombre": "Jarabe de Maltitol",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E966",
+        "nombre": "Lactitol",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E967",
+        "nombre": "Xilitol",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E968",
+        "nombre": "Eritritol",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E969",
+        "nombre": "Advantame",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E999",
+        "nombre": "Extracto de Quilaya",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E999i",
+        "nombre": "Extracto de Quilaya (Clase 1)",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E999ii",
+        "nombre": "Extracto de Quilaya (Clase 2)",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1000",
+        "nombre": "\u00c1cido C\u00f3lico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1001",
+        "nombre": "Sales y \u00c9steres Col\u00ednicos",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1001i",
+        "nombre": "Acetato Col\u00ednico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1001ii",
+        "nombre": "Carbonato Col\u00ednico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1001iii",
+        "nombre": "Cloruro Col\u00ednico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1001iv",
+        "nombre": "Citrato Col\u00ednico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1001v",
+        "nombre": "Tartrato Col\u00ednico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1001vi",
+        "nombre": "Lactato Col\u00ednico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1100",
+        "nombre": "Amilasas",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1100i",
+        "nombre": "Alfa-Amilasa de Aspergillus Oryzae",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1100ii",
+        "nombre": "Alfa-Amilasa de Bacillus Stearothermophilus",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1100iii",
+        "nombre": "Alfa-Amilasa de Bacillus Subtilis",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1100iv",
+        "nombre": "Alfa-Amilasa de Bacillus Megaterium",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1100v",
+        "nombre": "Alfa-Amilasa de Geobacillus Stearothermophilus",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1100vi",
+        "nombre": "Carbohidrasa de Bacillus Licheniformis",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1101",
+        "nombre": "Proteasas",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1101i",
+        "nombre": "Proteasa de Aspergillus Oryzae",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1101ii",
+        "nombre": "Papa\u00edna",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1101iii",
+        "nombre": "Bromela\u00edna",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1101iv",
+        "nombre": "Ficina",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1101v",
+        "nombre": "Proteasa de Streptomyces Fradiae",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1101vi",
+        "nombre": "Proteasa de Bacillus Subtilis",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1102",
+        "nombre": "Glucosa Oxidasa",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1103",
+        "nombre": "Invertasas",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1104",
+        "nombre": "Lipasas",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1105",
+        "nombre": "Lisozima",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1200",
+        "nombre": "Polidextrosas",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1201",
+        "nombre": "Polivinilpirrolidona (PVP)",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1202",
+        "nombre": "Polivinilpolipirrolidona (PVPP)",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1203",
+        "nombre": "Alcohol Polivin\u00edlico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1204",
+        "nombre": "Pululano",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1205",
+        "nombre": "Copol\u00edmero de Metacrilato B\u00e1sico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1206",
+        "nombre": "Copol\u00edmero de Metacrilato Neutro",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1207",
+        "nombre": "Copol\u00edmero de Metacrilato Ani\u00f3nico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1208",
+        "nombre": "Copol\u00edmero de Acetato de Vinilo",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1209",
+        "nombre": "Copol\u00edmero de Injerto de Polivinialcohol (PVA) y Polietilenglicol (PVE)",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1210",
+        "nombre": "Poliacrilato S\u00f3dico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1400",
+        "nombre": "Dextrinas",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1401",
+        "nombre": "Almid\u00f3n \u00c1cido",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1402",
+        "nombre": "Almid\u00f3n Alcalino",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1403",
+        "nombre": "Almid\u00f3n Blanqueado",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1404",
+        "nombre": "Almid\u00f3n Oxidado",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1405",
+        "nombre": "Almid\u00f3n Enzim\u00e1tico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1410",
+        "nombre": "Fosfato de Monoalmid\u00f3n",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1412",
+        "nombre": "Fosfato de Dialmid\u00f3n",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1413",
+        "nombre": "Fosfato de Dialmid\u00f3n Fosfatado",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1414",
+        "nombre": "Fosfato de Dialmid\u00f3n Acetilado",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1420",
+        "nombre": "Almid\u00f3n Acetilado",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1422",
+        "nombre": "Adipato de Dialmid\u00f3n Acetilado",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1440",
+        "nombre": "Hidroxipropil-Almid\u00f3n",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1441",
+        "nombre": "Glicerona de Dialmid\u00f3n Hidroxipropilado",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1442",
+        "nombre": "Fosfato de Dialmid\u00f3n Hidroxipropilado",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1450",
+        "nombre": "Octenil-Succinato S\u00f3dico de Almid\u00f3n",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1451",
+        "nombre": "Almid\u00f3n Oxidado Acetilado",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1452",
+        "nombre": "Octenil-Succinato Alum\u00ednico de Almid\u00f3n",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1501",
+        "nombre": "Hidrocarbonos Bencilados",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1502",
+        "nombre": "Butanodiol",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1503",
+        "nombre": "Aceite de Ricino",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1504",
+        "nombre": "Ciclotetraglucosas",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1504i",
+        "nombre": "Ciclotetraglucosa",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1504ii",
+        "nombre": "Jarabe de Ciclotetraglucosa",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1505",
+        "nombre": "Citrato Triet\u00edlico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1510",
+        "nombre": "Alcohol Et\u00edlico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1516",
+        "nombre": "Monoacetato de Glicerilo",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1517",
+        "nombre": "Diacetato de Glicerilo",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1518",
+        "nombre": "Triacetato de Glicerilo",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1519",
+        "nombre": "Alcohol Benc\u00edlico",
+        "toxicidad": "Media",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1520",
+        "nombre": "Propilenglicol",
+        "toxicidad": "Baja",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1521",
+        "nombre": "Polietilenglicol",
+        "toxicidad": "Alta",
+        "es_vegano": false
+    },
+    {
+        "numero": "E1522",
+        "nombre": "Lignosulfonato C\u00e1lcico",
+        "toxicidad": "En revisi\u00f3n",
+        "es_vegano": false
+    }
+]

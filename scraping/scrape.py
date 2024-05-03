@@ -30,5 +30,3 @@ if response.status_code == 200:
 with open('../data/aditivos.json', 'w', encoding='utf-8') as file:
     json.dump(data_to_save, file, ensure_ascii=False, indent=4)
             
-
-

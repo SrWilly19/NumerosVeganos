@@ -1,0 +1,3006 @@
+[
+    {
+        "Numero": "E100",
+        "es_vegano": true
+    }
+    {
+        "Numero": "E100i",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E100ii",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E101",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E101i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E101ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E101iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E101iv",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E102",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E103",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E104",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E105",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E107",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E110",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E111",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E120",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E120i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E120ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E121",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E122",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E123",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E124",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E125",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E126",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E127",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E128",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E129",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E130",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E131",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E132",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E133",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E134",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E140",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E140i",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E140ii",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E141",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E141i",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E141ii",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E142",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E143",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E150",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E150a",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E150b",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E150c",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E150d",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E151",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E152",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E153",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E154",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E155",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E160",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E160a",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E160a(i)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E160a(ii)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E160a(iii)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E160a(iv)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E160b",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E160b(i)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E160b(ii)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E160b(iii)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E160c",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E160c(i)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E160c(ii)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E160d",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E160d(i)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E160d(ii)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E160d(iii)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E160e",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E160f",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E161",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E161a",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E161b",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E161b(i)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E161b(ii)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E161b(iii)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E161c",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E161d",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E161e",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E161f",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E161g",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E161h",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E161h(i)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E161h(ii)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E161i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E161j",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E162",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E163",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E163i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E163ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E163iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E163iv",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E163v",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E163vi",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E163vii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E163viii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E163ix",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E163x",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E163xi",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E163a",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E163b",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E163c",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E163d",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E163e",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E163f",
+        "es_vegano": true
+    },
+    {
+        "Numero": "E164",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E165",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E166",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E170",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E170i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E170ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E171",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E172",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E172i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E172ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E172iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E173",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E174",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E175",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E176",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E176i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E176ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E176iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E180",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E181",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E182",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E183",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E200",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E201",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E202",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E203",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E209",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E210",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E211",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E212",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E213",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E214",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E215",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E216",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E217",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E218",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E219",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E220",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E221",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E222",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E223",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E224",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E225",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E226",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E227",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E228",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E230",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E231",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E232",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E233",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E234",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E235",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E236",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E237",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E238",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E239",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E240",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E241",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E242",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E243",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E249",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E250",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E251",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E251i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E251ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E252",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E260",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E261",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E261i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E261ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E262",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E262i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E262ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E263",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E264",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E265",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E266",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E270",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E280",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E281",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E282",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E283",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E284",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E285",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E290",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E296",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E297",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E300",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E301",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E302",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E303",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E304",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E304i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E304ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E306",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E307",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E307a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E307b",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E307c",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E308",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E309",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E310",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E311",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E312",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E313",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E314",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E315",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E316",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E317",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E318",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E319",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E320",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E321",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E322",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E322i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E322ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E322iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E323",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E324",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E325",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E326",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E327",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E328",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E329",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E330",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E331",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E331i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E331ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E331iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E332",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E332i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E332ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E332iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E333",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E333i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E333ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E333iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E334",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E335",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E335i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E335ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E336",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E336i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E336ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E337",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E338",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E339",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E339i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E339ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E339iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E340",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E340i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E340ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E340iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E341",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E341i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E341ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E341iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E342",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E342i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E342ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E342iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E343",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E343i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E343ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E343iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E344",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E345",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E349",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E349i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E349ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E350",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E350i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E350ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E351",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E351i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E351ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E352",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E352i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E352ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E353",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E354",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E354i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E354ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E355",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E356",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E357",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E358",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E359",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E360",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E363",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E364",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E364i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E364ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E365",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E366",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E367",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E368",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E369",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E370",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E375",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E380",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E381",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E383",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E384",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E385",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E386",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E387",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E388",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E389",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E390",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E391",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E392",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E392i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E392ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E392iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E392iv",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E399",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E400",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E401",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E402",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E403",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E404",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E405",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E406",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E407",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E407a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E408",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E409",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E410",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E411",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E412",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E413",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E414",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E415",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E416",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E417",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E418",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E419",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E420",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E420i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E420ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E421",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E421i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E421ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E422",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E423",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E424",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E425",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E425i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E425ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E426",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E427",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E428",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E429",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E429i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E429ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E430",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E431",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E432",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E433",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E434",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E435",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E436",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E440",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E440i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E440ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E441",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E442",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E443",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E444",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E445",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E445i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E445ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E445iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E446",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E450",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E450i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E450ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E450iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E450iv",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E450v",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E450vi",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E450vii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E450viii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E450ix",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E451",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E451i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E451ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E451iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E452",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E452i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E452ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E452iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E452iv",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E452v",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E452vi",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E453",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E454",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E455",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E456",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E457",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E458",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E459",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E460",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E460i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E460ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E461",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E462",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E463",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E464",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E465",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E466",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E467",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E468",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E469",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E470",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E470i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E470ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E470iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E470a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E470b",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E471",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E472",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E472a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E472b",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E472c",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E472d",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E472e",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E472f",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E472g",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E473",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E473a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E474",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E475",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E476",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E477",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E478",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E479",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E479a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E479b",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E480",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E481",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E481i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E481ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E482",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E482i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E482ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E483",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E484",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E485",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E486",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E487",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E488",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E489",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E491",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E492",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E493",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E494",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E495",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E496",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E499",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E500",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E500i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E500ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E500iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E501",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E501i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E501ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E503",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E503i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E503ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E504",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E504i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E504ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E505",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E507",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E508",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E509",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E510",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E511",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E512",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E513",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E514",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E514i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E514ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E515",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E515i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E515ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E516",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E516i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E516ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E517",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E517i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E517ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E518",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E518i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E518ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E519",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E519i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E519ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E520",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E521",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E522",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E523",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E524",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E525",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E526",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E527",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E528",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E529",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E530",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E534",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E535",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E536",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E537",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E538",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E539",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E540",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E541",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E541i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E541ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E542",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E543",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E544",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E545",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E546",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E550",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E550i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E550ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E551",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E552",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E553",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E553a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E553a(i)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E553a(ii)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E553b",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E554",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E555",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E556",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E557",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E558",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E559",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E560",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E570",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E574",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E575",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E576",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E577",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E578",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E579",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E585",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E586",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E620",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E621",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E622",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E623",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E624",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E625",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E626",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E627",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E628",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E629",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E630",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E631",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E632",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E633",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E634",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E635",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E636",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E637",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E638",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E639",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E640",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E640i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E640ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E641",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E642",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E650",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E900",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E900a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E900b",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E901",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E901i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E901ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E902",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E903",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E904",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E904i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E904ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E905",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E905a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E905b",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E905c",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E905d",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E905e",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E905f",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E905g",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E906",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E907",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E908",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E909",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E910",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E911",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E912",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E913",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E914",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E915",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E916",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E917",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E918",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E919",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E920",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E921",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E922",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E923",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E924",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E924a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E924b",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E925",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E926",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E927",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E927a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E927b",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E928",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E929",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E930",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E938",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E939",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E940",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E941",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E942",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E943",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E943a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E943b",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E944",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E945",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E946",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E948",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E949",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E950",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E951",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E952",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E952i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E952ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E952iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E953",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E954",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E954i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E954ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E954iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E954iv",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E955",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E956",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E957",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E958",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E959",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E960",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E960a",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E960b",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E960b(i)",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E960c",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E960d",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E961",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E962",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E963",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E964",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E965",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E965i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E965ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E966",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E967",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E968",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E969",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E999",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E999i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E999ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1000",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1001",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1001i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1001ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1001iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1001iv",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1001v",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1001vi",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1100",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1100i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1100ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1100iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1100iv",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1100v",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1100vi",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1101",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1101i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1101ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1101iii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1101iv",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1101v",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1101vi",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1102",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1103",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1104",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1105",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1200",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1201",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1202",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1203",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1204",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1205",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1206",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1207",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1208",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1209",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1210",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1400",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1401",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1402",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1403",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1404",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1405",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1410",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1412",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1413",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1414",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1420",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1422",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1440",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1441",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1442",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1450",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1451",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1452",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1501",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1502",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1503",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1504",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1504i",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1504ii",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1505",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1510",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1516",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1517",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1518",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1519",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1520",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1521",
+        "es_vegano": false
+    },
+    {
+        "Numero": "E1522",
+        "es_vegano": false
+    }
+]
