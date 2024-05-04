@@ -1,15 +1,14 @@
 import sqlite3
-
-conn = sqlite3.connect('aditivos.db')
-cursor = conn.cursor()
-
-cursor.execute('''
+#conexion a la base de datos SQLite
+conn = sqlite3.connect('aditivosV2.db')
+c = conn.cursor()
+#creamos la tabla
+c.execute('''
 CREATE TABLE IF NOT EXISTS aditivos (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    numero TEXT UNIQUE,
-    nombre TEXT,
-    toxicidad TEXT,
-    es_vegano BOOLEAN
+    numero TEXT PRIMARY KEY,
+    clasificacion TEXT,
+    enlace_numero TEXT,
+    enlace_informacion TEXT
 )
 ''')
 
