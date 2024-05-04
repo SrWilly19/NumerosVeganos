@@ -11,5 +11,5 @@ try:
 except Exception as e:
     print("Ocurrio un error al realizar la consulta: ", e)
 
-
+#Cerramos la conexion a la base de datos
 conn.close()
